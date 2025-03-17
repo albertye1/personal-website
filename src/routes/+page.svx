@@ -1,0 +1,33 @@
+<script>
+	import { onMount } from 'svelte';
+
+	let time = $state(new Date());
+
+	// these automatically update when `time`
+	// changes, because of the `$:` prefix
+	let hours = $derived(time.getHours());
+	let msg = $state("afternoon");
+
+	onMount(() => {
+		const interval = setInterval(() => {
+			time = new Date();
+		}, 1000);
+
+		return () => {
+			clearInterval(interval);
+		};
+	});
+</script>
+
+
+# about me
+<p>
+{#if hours < 6 || hours >= 19}
+	Good evening!
+{:else if hours < 12}
+	Good morning!
+{:else}
+	Good afternoon!
+{/if}
+I'm an undergraduate student studying CS at Berkeley.
+</p>
