@@ -1,6 +1,21 @@
+<script>
+  import Carousel from "$lib/Carousel.svelte";
+</script>
+
 # gallery
-one of these days i'm gonna get some dusty old computer, put a 2TB ssd in it, and let it do its thing in the 
+one of these days i'm gonna get some dusty old computer, put a 2TB ssd in it, and let it do its thing in the
 corner of my house. then i will force feed it images i took of trees and have it vomit them on here.
 
-
 in the meantime though enjoy some static images.
+
+# 8 mar 2025: berkeley chaos gourmet trip
+<Carousel/>
+
+# 15 feb 2025: berkeley ocf retreat
+<Carousel images={Object.values(
+		import.meta.glob('$lib/assets/ocfretreat/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
+			eager: true,
+			query: '?url',
+			import: 'default'
+		})
+	)}/>

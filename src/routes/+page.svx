@@ -29,5 +29,27 @@
 {:else}
 	Good afternoon!
 {/if}
-I'm an undergraduate student studying CS at Berkeley.
+I'm an undergraduate student studying CS at Berkeley. I also interned at Amazon and was on course staff
+for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). Contrary to popular
+belief, however, I cannot program.
 </p>
+
+At Berkeley, I'm involved in the [Open Computing Facility](https://ocf.io), and write problems for
+[CALICO](https://calico.cs.berkeley.edu) and [BMT](https://berkeley.mt).
+
+Outside of class, I enjoy [taking photos](/gallery).
+
+# socials
+* GitHub: [albertye1](https://github.com/albertye1)
+* Linkedin: albye
+* Spotify: aly
+* Email: aye [at] berkeley [dot] edu
+
+# friends
+[Michael Lisano](https://michaellisano.com),
+[Bill Mao](https://billmao.net),
+[Trinity Chung](https://trinityjchung.com),
+[Oliver Ni](https://oliver.ni),
+[Ethan Wu](https://ethanwu.dev),
+[Joe Wang](https://joewang.me),
+[Raine Koizumi](https://koizura.me)

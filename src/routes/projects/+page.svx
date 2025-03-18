@@ -1,9 +1,13 @@
----
-title: Svex up your markdown
-count: 25
-color: cadetblue
-list: [1, 2, 3, 4, "boo"]
+# projects
+* [Physics Engine](https://suika.aly.sh): Developed a clone of Suika Game with a custom physics
+    engine.
+* [This Website](https://github.com/albertye1/pw3): Written very poorly in Svelte. Hosted via
+    Vercel and registered via Porkbun.
+* [YEI Learning Portal](https://learn.theyei.org): Conceived the idea of and developed a training
+    website to help students with AP Economics exams, National Economics Challenge, and other high school
+    economics competitions. Written in React with TS, auth via Firebase.
 
----
-
-# M3G4T3RR4, JACK OFF, EXECUTE!
+# teaching
+* CS 164
+* OCF Linux Sysadmin Class
+* X-Camp
