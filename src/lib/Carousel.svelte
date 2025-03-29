@@ -23,7 +23,7 @@
 <div class="carousel">
 	<div class="carousel-images">
 		{#each [images[currentIndex]] as image, index (index)}
-			<img transition:fade src={image} alt="Carousel Image" />
+			<img transition:fade={{ duration: 2000 }} src={image} alt="Carousel Image" />
 		{/each}
 	</div>
 	<button class="carousel-button prev" on:click={prev}>‹</button>

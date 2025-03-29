@@ -1,0 +1,25 @@
+<script>
+export let data;
+</script>
+
+<style>
+ul {
+	list-style-type: none;
+}
+</style>
+
+# all posts
+
+<ul>
+	{#each data.posts as post}
+		<li>
+			<h2>
+				<a href={post.path}>
+					{post.meta.title}
+				</a>
+			</h2>
+			<p class="text-slate-600 dark:text-stone-300"><i>Published {post.meta.date}</i></p>
+		</li>
+        <hr class="mb-3 text-slate-400 dark:text-stone-400"/>
+	{/each}
+</ul>

@@ -1,6 +1,6 @@
 # projects
 * [Physics Engine](https://suika.aly.sh): Developed a clone of Suika Game with a custom physics
-    engine.
+    engine in Rust.
 * [This Website](https://github.com/albertye1/pw3): Written very poorly in Svelte. Hosted via
     Vercel and registered via Porkbun.
 * [YEI Learning Portal](https://learn.theyei.org): Conceived the idea of and developed a training
@@ -8,6 +8,10 @@
     economics competitions. Written in React with TS, auth via Firebase.
 
 # teaching
-* CS 164
-* OCF Linux Sysadmin Class
-* X-Camp
+* [CS 164](https://drive.google.com/drive/folders/1Pke-MW66kA5MJYI8Oodb5JE2yli_K0aQ): I was a TA for Berkeley's
+    Programming Languages and Compilers class in Fall 2024. The materials I've prepared are linked.
+* [OCF Linux Sysadmin Class](https://decal.ocf.berkeley.edu/). Since Spring 2024, I've helped teach the Open 
+    Computing Facility's Linux Sysadmin DeCal. I lectured topics such as shell scripting, networking, 
+    and the Puppet config manager.
+* [X-Camp](https://x-camp.academy/): Since Summer 2022, I've been working with X-Camp to teach middle and high
+    school students competitive programming.
