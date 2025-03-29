@@ -1,6 +1,6 @@
 ---
-title: self hosting for dummies, ep. 1: ssh & minecraft
-date: '28 mar 2025'
+title: 'self hosting for dummies, ep. 1: ssh & minecraft'
+date: '29 mar 2025'
 ---
 
 ## setting up ssh
