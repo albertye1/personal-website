@@ -5,7 +5,7 @@
 	let { children } = $props();
 </script>
 
-<nav class="mx-[25%] mt-10 mb-5 py-10 sm:mx-[5%] lg:mx-[30%]">
+<nav class="mx-[5%] mt-10 mb-5 py-10 md:mx-[20%] lg:mx-[30%]">
 	<div class="flex justify-between h-16">
 		<div class="flex">
 			<div class="flex-shrink-0 flex items-center">
@@ -22,7 +22,7 @@
 	</div>
 </nav>
 
-<div class="px-[25%] sm:px-[5%] lg:px-[30%]">{@render children()}</div>
+<div class="px-[5%] md:px-[20%] lg:px-[30%]">{@render children()}</div>
 
 <style>
 	a,
