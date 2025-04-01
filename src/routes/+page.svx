@@ -29,9 +29,10 @@
 {:else}
 	Good afternoon!
 {/if}
-I'm an undergraduate student studying CS at Berkeley. I also interned at Amazon and was on course staff
-for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). Contrary to popular
-belief, however, I cannot program. 
+I'm a graduating senior majoring in CS at Berkeley. After a couple months of doing
+absolutely nothing, I will likely join Meta. I also interned at Amazon and was on course staff
+for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). My full
+resume can be seen <a href="/resume.pdf">here</a>.
 </p>
 
 At Berkeley, I'm involved in the [Open Computing Facility](https://ocf.io), and write problems for
