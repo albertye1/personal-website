@@ -38,7 +38,7 @@ resume can be seen <a href="/resume.pdf">here</a>.
 At Berkeley, I'm involved in the [Open Computing Facility](https://ocf.io), and write problems for
 [CALICO](https://calico.cs.berkeley.edu) and [BMT](https://berkeley.mt).
 
-Outside of school, I enjoy [leaving Berkeley](/gallery).
+Outside of school and work, I surprisingly enjoy [going outside](/gallery) sometimes.
 
 # socials
 * GitHub: [albertye1](https://github.com/albertye1)
