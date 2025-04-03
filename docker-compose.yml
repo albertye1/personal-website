@@ -5,13 +5,3 @@ services:
     ports:
       - "3000:3000"
     build: .
-  nginx:
-    restart: always
-    build:
-      context: ./nginx
-    ports:
-      - "80:80"
-      - "443:443"
-    dns:
-      - 8.8.8.8
-      - 9.9.9.9
