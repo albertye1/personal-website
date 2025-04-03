@@ -18,7 +18,7 @@ you should probably have security. when i first started setting up things, i had
 now, go into your admin console. you should specify what service you are running, and which ports you should forward. ideally you would only want to open up a port once you have a service going on that port.
 
 ## docker
-my docker journey. i try (and fail!) to create a minecraft server. if somehow it's ever up it'll be on `florinia.aly.sh`.
+my docker journey. i try (and fail!) to create a minecraft server. if somehow it's ever up it'll be on `julia.aly.sh`.
 ### installation
 just followed the stuff on this slide down [here](https://docs.docker.com/engine/install/debian/)
 
