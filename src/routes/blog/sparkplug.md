@@ -24,10 +24,11 @@ date: "9 apr 2025"
   - boot for cylinder #2 was absolutely impossible to get rid of
   - plug for cylinder #5 seemed to have some burn
   - plug for cylinder #3 felt like excalibur to pull out.
+  - i'm pretty sure all thep lugs were way too tight, but there wasn't any stripping so all's well that ends well ig
     ![blogpic](/blogposts/excalibur.jpg)
 ### reinstallation
   - added anti-seize to the plugs before realizing that NGK plugs aren't supposed to use antiseize
-  - used a random M5 screw from ace hardware and a washer that wasn't the same size
+  - used a random M5 screw from ace hardware and a washer that wasn't the same size to hold down the charge pipe in lieu of the stripped screw
   - just didn't put washers in the nut and bolt assembly for the crossbar. i'd be so mad if i lost the other washer so i just didn't bother
   - very rational dread that something's just gonna come off or break while i'm driving. torqued everything down though so hopefully it would be ok
 ### improvements
