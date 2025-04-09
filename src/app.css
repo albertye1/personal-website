@@ -3,15 +3,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
 @import 'tailwindcss';
 
-@custom-variant dark (&:where(.dark, .dark *));	
+@custom-variant dark (&:where(.dark, .dark *));
 
 body {
 	font-family: 'Cabin', sans-serif;
-	@apply bg-sky-50 text-slate-800 dark:bg-zinc-900 dark:text-zinc-200 transition-all;
+	@apply bg-sky-50 text-slate-800 transition-all dark:bg-zinc-900 dark:text-zinc-200;
 }
 
 p {
 	@apply pb-5;
+}
+
+img[alt='blogpic'] {
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 75%;
 }
 
 a {
@@ -31,7 +38,7 @@ nav {
 code {
 	font-family: Inconsolata, monospace;
 	font-size: 12.5pt;
-	@apply !text-indigo-600 dark:!text-emerald-300
+	@apply !text-indigo-600 dark:!text-emerald-300;
 }
 
 .b {
