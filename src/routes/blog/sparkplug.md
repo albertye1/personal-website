@@ -29,9 +29,11 @@ date: "9 apr 2025"
   - added anti-seize to the plugs before realizing that NGK plugs aren't supposed to use antiseize
   - used a random M5 screw from ace hardware and a washer that wasn't the same size
   - just didn't put washers in the nut and bolt assembly for the crossbar. i'd be so mad if i lost the other washer so i just didn't bother
-  - very rational dread that something's just gonna come off or break while i'm driving and splat tomatoes all on the ground or smth
+  - very rational dread that something's just gonna come off or break while i'm driving. torqued everything down though so hopefully it would be ok
+### improvements
+  - very slight reduction in car vibrations on idle. i'll do a more exhaustive test drive that will probably lead to my entire engine falling apart today, i think.
 
 ## lessons learned
 - flex head ratchets are GOATED
 - need magnet on a stick so i stop dropping easy-to-lose mechanical parts.
-- no need for antiseize on modern vehicles. just raw dog the head's made of zinc anyway
+- modern spark plugs, especially ones by NGK, do **not** need antiseize. too much antisize will lead to a misfire or smth. they also have zinc heads which don't need antiseize to function.
