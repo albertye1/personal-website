@@ -16,3 +16,9 @@
     and the Puppet config manager.
 * [X-Camp](https://x-camp.academy/): Since Summer 2022, I've been working with X-Camp to teach middle and high
     school students competitive programming.
+
+# other todo
+* basic monitoring page for home servers -- may need another DO/hetzner box
+* buddy box?
+* filter by tag on blog
+* move gallery and other personal things to another site? i have a lot of domains. the best domains. i asked the domain guy and he said he hasn't seen anyone with better domains.
