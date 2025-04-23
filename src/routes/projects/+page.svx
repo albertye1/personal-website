@@ -1,4 +1,5 @@
 # projects
+* Homelab. Check status [here](http://radomus.albie.cat/).
 * [Load Balancer](https://github.com/Storce/EE122-Project-SP2025/): Ongoing project with two partners.
     Ran a couple benchmarks to test the efficiency of static and dynamic load balancers for various tasks.
 * [Physics Engine](https://suika.aly.sh): Developed a clone of Suika Game with a custom physics
@@ -11,8 +12,8 @@
 # teaching
 * [CS 164](https://drive.google.com/drive/folders/1Pke-MW66kA5MJYI8Oodb5JE2yli_K0aQ): I was a TA for Berkeley's
     Programming Languages and Compilers class in Fall 2024. The materials I've prepared are linked.
-* [OCF Linux Sysadmin Class](https://decal.ocf.berkeley.edu/). Since Spring 2024, I've helped teach the Open 
-    Computing Facility's Linux Sysadmin DeCal. I lectured topics such as shell scripting, networking, 
+* [OCF Linux Sysadmin Class](https://decal.ocf.berkeley.edu/). Since Spring 2024, I've helped teach the Open
+    Computing Facility's Linux Sysadmin DeCal. I lectured topics such as shell scripting, networking,
     and the Puppet config manager.
 * [X-Camp](https://x-camp.academy/): Since Summer 2022, I've been working with X-Camp to teach middle and high
     school students competitive programming.
