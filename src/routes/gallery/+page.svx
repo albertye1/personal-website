@@ -8,6 +8,15 @@ corner of my house. then i will force feed it images i took of trees and have it
 
 in the meantime though enjoy some static images.
 
+# 27 apr 2025: de anza car show
+<Carousel images={Object.values(
+		import.meta.glob('$lib/assets/cars/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
+			eager: true,
+			query: '?url',
+			import: 'default'
+		})
+	)}/>
+
 # 22 apr 2025: my friend wants me to put up this image
 easiest ten dollars of my life
 <img src="/tendollar.jpg" />
