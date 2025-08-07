@@ -4,6 +4,6 @@
 	export let alt = 'albert';
 </script>
 
-<a href={'https://' + href} class="mx-1">
+<a href={'https://' + href} class="mx-1 my-1">
 	<img {alt} {src} />
 </a>

@@ -67,11 +67,11 @@ Outside of school and work, I surprisingly enjoy [going outside](/gallery) somet
 <Badge href="michaellisano.com" alt="michael" src="/buttons/michael.gif" />
 <Badge href="devhack.net" alt="devhack" src="/buttons/devhack.gif" />
 <Badge href="ocf.io" alt="ocf" src="/buttons/ocf.png" />
-<Badge />
 </div>
 <div class=flex>
 <Badge href="svelte.dev" alt="svelte" src="/buttons/svelte.png" />
 <Badge href="nixos.org" alt="nix" src="/buttons/nix.png" />
+<Badge />
 </div>
 
 <br/>
