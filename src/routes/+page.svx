@@ -1,5 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
+	import Badge from '$lib/Badge.svelte';
 
 	let time = $state(new Date());
 
@@ -29,7 +30,9 @@
 {:else}
 	Good afternoon!
 {/if}
-I'm a Berkeley alum and (incoming) software engineer at Meta working on [insert task here]. I also interned at Amazon and was on course staff
+I'm a Berkeley alum and software engineer working to ensure Instagram retrieves your reel quickly
+and the photo of that beater you're selling on Marketplace doesn't get corrupted.
+I also interned at Amazon to ensure Alexa steals your data efficiently, and was on course staff
 for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). My full
 resume can be seen <a href="/resume.pdf">here</a>.
 </p>
@@ -47,13 +50,26 @@ Outside of school and work, I surprisingly enjoy [going outside](/gallery) somet
 * Personal Email: me [at] albie [dot] cat
 
 # friends
-[Michael Lisano](https://michaellisano.com),
-[Bill Mao](https://billmao.net),
+[Brooke Mao](https://brookemao.ca),
 [Trinity Chung](https://trinityjchung.com),
 [Oliver Ni](https://oliver.ni),
 [Ethan Wu](https://ethanwu.dev),
-[Joe Wang](https://joewang.me),
 [Raine Koizumi](https://koizura.me),
 [Ben Cuan](https://bencuan.me),
-[Jaysa Garcia](https://jaysa.net),
-[Sasha Huang](https://umbresp.cat)
+[Leo Singh](https://6c656f.io/)
+
+<div class=flex>
+<Badge href="umbresp.cat" alt="umbresp/sasha" src="/buttons/umbresp.gif" />
+<Badge href="joewang.me" alt="joe wang" src="/buttons/joewang.png" />
+<Badge href="jaysa.net" alt="jaysa" src="/buttons/jaysa.jpg" />
+<Badge href="ocf.io/rjz" alt="rjz" src="/buttons/rjz.png" />
+<Badge href="anna.dymchenko.com" alt="anna" src="/buttons/anna.png" />
+<Badge href="michaellisano.com" alt="michael" src="/buttons/michael.gif" />
+<Badge href="devhack.net" alt="devhack" src="/buttons/devhack.gif" />
+<Badge href="ocf.io" alt="ocf" src="/buttons/ocf.png" />
+<Badge href="svelte.dev" alt="svelte" src="/buttons/svelte.png" />
+<Badge href="nixos.org" alt="nix" src="/buttons/nix.png" />
+<Badge />
+</div>
+
+<br/>

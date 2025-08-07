@@ -23,7 +23,13 @@ easiest ten dollars of my life
 <br>
 
 # 8 mar 2025: berkeley chaos gourmet trip
-<Carousel/>
+<Carousel images={Object.values(
+		import.meta.glob('$lib/assets/chaos/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
+			eager: true,
+			query: '?url',
+			import: 'default'
+		})
+	)}/>
 
 # 15 feb 2025: berkeley ocf retreat
 <Carousel images={Object.values(

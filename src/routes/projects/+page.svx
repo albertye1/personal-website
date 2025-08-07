@@ -1,5 +1,7 @@
 # projects
 * Homelab: Check status [here](http://radomus.albie.cat/).
+* [NixOS](https://github.com/albertye1/nix-configs): I use NixOS btw. Here are my configs. Soon I may update my
+    homelab with this as well.
 * [Load Balancer](https://github.com/Storce/EE122-Project-SP2025/): Project with [Joe Wang](https://joewang.me/) and
     [Veronica Cheung](https://www.linkedin.com/in/veronica-cheung/).
     Tested the nginx load balancer for varying loads in a containerized environment and compared the results
@@ -21,6 +23,5 @@
     school students competitive programming.
 
 # other todo
-* buddy box?
 * filter by tag on blog
 * local image gallery.

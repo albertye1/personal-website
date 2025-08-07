@@ -3,14 +3,8 @@
 
 	let currentIndex = 0;
 
-	export let images = Object.values(
-		import.meta.glob('$lib/assets/chaos/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	);
-
+	// this is a slightly better default option than an entire album lol
+	export let images = ['/tendollar.jpg'];
 	function next() {
 		currentIndex = (currentIndex + 1) % images.length;
 	}

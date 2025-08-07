@@ -6,9 +6,9 @@
 </script>
 
 <nav class="mx-[5%] mt-10 mb-5 py-10 md:mx-[20%] lg:mx-[30%]">
-	<div class="flex justify-between h-16">
+	<div class="flex h-16 justify-between">
 		<div class="flex">
-			<div class="flex-shrink-0 flex items-center">
+			<div class="flex flex-shrink-0 items-center">
 				<brand class="pr-5 text-xl">Albert Ye</brand>
 				<a class="b" href="/">home</a> /
 				<a class="b" href="/projects">projects</a>
@@ -18,7 +18,8 @@
 			</div>
 		</div>
 		<div class="flex items-center">
-			<Theme/></div>
+			<Theme />
+		</div>
 	</div>
 </nav>
 
