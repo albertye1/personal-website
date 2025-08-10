@@ -25,3 +25,4 @@
 # other todo
 * filter by tag on blog
 * local image gallery.
+* return to hosting on baremetal
