@@ -30,8 +30,8 @@
 {:else}
 	Good afternoon!
 {/if}
-I'm a Berkeley alum and software engineer working to ensure Instagram retrieves your reel quickly
-and your Marketplace lowball offers don't get wiped.
+I'm a Berkeley alum and software engineer working in storage infra at Meta. If I
+mess up at work, you will know.
 I also interned at Amazon to learn how your Alexa data is harvested, and was on course staff
 for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). My full
 resume can be seen <a href="/resume.pdf">here</a>.
@@ -75,6 +75,7 @@ Outside of school and work, I surprisingly enjoy [going outside](/gallery) somet
 <Badge href="oliver.ni" alt="oliver" src="/buttons/oliver.png" />
 <Badge href="michaellisano.com" alt="michael" src="/buttons/michael.gif" />
 <Badge href="trinityjchung.com/yolkgirl" alt="trinity" src="/buttons/yolkgirl.gif" />
+<Badge href="brookemao.ca" alt="nix" src="/buttons/brooke.png" />
 <Badge href="bencuan" alt="bencuan" src="/buttons/bencuan.gif" />
 <Badge href="ocf.io" alt="ocf" src="/buttons/ocf.png" />
 <Badge href="devhack.net" alt="devhack" src="/buttons/devhack.gif" />
