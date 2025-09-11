@@ -8,7 +8,8 @@
     against the theoretical benefits of load balancing. For more information, view our extended abstract [here](projects/122.pdf).
 * [Physics Engine](https://suika.aly.sh): Project with [Raine Koizumi](https://koizura.me).
     Developed a clone of Suika Game with a custom physics engine in Rust.
-* [This Website](https://github.com/albertye1/pw3): Written in Svelte and self-hosted on an old ThinkPad.
+* [This Website](https://github.com/albertye1/pw3): Written in Svelte and self-hosted on an old Dell OptiPlex I purchased at a
+    Walgreens parking lot in Kirkland, WA for $75.
 * [YEI Learning Portal](https://learn.theyei.org): Conceived the idea of and developed a training
     website to help students with AP Economics exams, National Economics Challenge, and other high school
     economics competitions. Written in React with TS, auth via Firebase.
