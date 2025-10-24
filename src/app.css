@@ -59,3 +59,7 @@ ul {
 		font-size: var(--text-xl);
 	}
 }
+
+.lang {
+	@apply w-18 !bg-sky-700 !text-sky-100 dark:!bg-emerald-400 dark:!text-zinc-800;
+}

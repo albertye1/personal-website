@@ -1,0 +1,37 @@
+<script>
+	import BuddyBox from '../components/BuddyBox.svelte';
+	import TimedHello from '../components/TimedHello.svelte';
+	import Friends from '../components/Friends.svx';
+</script>
+
+
+<p>
+<TimedHello lang=1 />
+Sóc Alberto, un exalumne de Berkeley i enginyer de programari que treballa en infraestructura d'emmagatzematge a Meta.
+Si faig un error a la feina, ho sabràs.
+També vaig fer pràctiques a Amazon per aprendre com es roben les dades d'Alexa i vaig formar part del personal docent
+de dues classes de nivell superior de Berkeley: CS 164 (compiladors) i CS 170 (algoritmes). Podeu veure el meu currículum complet
+<a href="/resume.pdf">aquí</a>.
+</p>
+
+A Berkeley, estava involvat en la [Facilitat de Computació Obert](https://ocf.io)
+i escrivia problemes de matemàtiques per a [CALICO](https://calico.cs.berkeley.edu) i [BMT](https://berkeley.mt).
+
+Fora de l'escola i la feina, sorprenentement m'agrada [sortir a fora](/gallery) a vegades.
+
+# xarxes socials
+* GitHub: [albertye1](https://github.com/albertye1)
+* Linkedin: [albye](https://www.linkedin.com/in/albye/)
+* Spotify: aly
+* Email de Berkeley: aye [a] berkeley [punt] edu
+* Email personal: me [a] albie [punt] cat
+
+# amics
+<Friends />
+
+## caixa d'amics
+<BuddyBox />
+<br />
+
+
+<br/>

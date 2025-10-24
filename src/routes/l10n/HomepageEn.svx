@@ -1,0 +1,38 @@
+<script>
+	import BuddyBox from '../components/BuddyBox.svelte';
+	import TimedHello from '../components/TimedHello.svelte';
+	import Friends from '../components/Friends.svx';
+</script>
+
+
+<p>
+<TimedHello />
+I'm a Berkeley alum and software engineer working in storage infra at Meta. If I
+mess up at work, you will know.
+I also interned at Amazon to learn how your Alexa data is harvested, and was on course staff
+for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). My full
+resume can be seen <a href="/resume.pdf">here</a>.
+</p>
+
+At Berkeley, I'm involved in the [Open Computing Facility](https://ocf.io), and write problems for
+[CALICO](https://calico.cs.berkeley.edu) and [BMT](https://berkeley.mt).
+
+Outside of school and work, I surprisingly enjoy [going outside](/gallery) sometimes.
+
+# socials
+* GitHub: [albertye1](https://github.com/albertye1)
+* Linkedin: [albye](https://www.linkedin.com/in/albye/)
+* Spotify: aly
+* Berkeley Email: aye [at] berkeley [dot] edu
+* Personal Email: me [at] albie [dot] cat
+
+# friends
+<Friends />
+
+## buddy box
+<BuddyBox />
+
+<br />
+
+
+<br/>

@@ -1,90 +1,41 @@
 <script>
-	import { onMount } from 'svelte';
-	import Badge from '$lib/Badge.svelte';
+  import CatPage from './l10n/HomepageCat.svx';
+  import EnPage from './l10n/HomepageEn.svx';
 
-	let time = $state(new Date());
+	const MAX_LANG = 2;
+	let lang = $state(0);
 
-	// these automatically update when `time`
-	// changes, because of the `$:` prefix
-	let hours = $derived(time.getHours());
-	let msg = $state("afternoon");
-
-	onMount(() => {
-		const interval = setInterval(() => {
-			time = new Date();
-		}, 1000);
-
-		return () => {
-			clearInterval(interval);
-		};
-	});
+	function switchLang() {
+		lang = (lang + 1) % MAX_LANG;
+	}
 </script>
 
+<style>
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 
-# about me
-<p>
-{#if hours < 6 || hours >= 19}
-	Good evening!
-{:else if hours < 12}
-	Good morning!
+  .header-container h1 {
+    margin: 0; /* Remove default margin from the header */
+  }
+
+  .header-container button {
+    cursor: pointer;
+  }
+</style>
+
+{#if lang == 0}
+  <div class="header-container">
+    <h1>about me</h1>
+    <button class="lang" onclick={switchLang}>català</button>
+  </div>
+  <EnPage />
 {:else}
-	Good afternoon!
+  <div class="header-container">
+    <h1>sobre mi</h1>
+    <button class="lang" onclick={switchLang}>english</button>
+  </div>
+  <CatPage />
 {/if}
-I'm a Berkeley alum and software engineer working in storage infra at Meta. If I
-mess up at work, you will know.
-I also interned at Amazon to learn how your Alexa data is harvested, and was on course staff
-for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). My full
-resume can be seen <a href="/resume.pdf">here</a>.
-</p>
-
-At Berkeley, I'm involved in the [Open Computing Facility](https://ocf.io), and write problems for
-[CALICO](https://calico.cs.berkeley.edu) and [BMT](https://berkeley.mt).
-
-Outside of school and work, I surprisingly enjoy [going outside](/gallery) sometimes.
-
-# socials
-* GitHub: [albertye1](https://github.com/albertye1)
-* Linkedin: [albye](https://www.linkedin.com/in/albye/)
-* Spotify: aly
-* Berkeley Email: aye [at] berkeley [dot] edu
-* Personal Email: me [at] albie [dot] cat
-
-# friends
-[Joe Wang](https://joewang.me),
-[Jaysa Garcia](https://jaysa.net),
-[Anna Dymchenko](https://anna.dymchenko.com),
-[Oliver Ni](https://oliver.ni),
-[Michael Lisano](https://michaellisano.com),
-[Trinity Chung](https://trinityjchung.com),
-[Ben Cuan](https://bencuan.me),
-[Brooke Mao](https://brookemao.ca),
-[Sasha Huang](https://umbresp.cat),
-[Ethan Wu](https://ethanwu.dev),
-[Raine Koizumi](https://koizura.me),
-[Michael Pham](https://ktm-p.net),
-[Leo Singh](https://6c656f.io/)
-
-
-## buddy box
-<div class="flex" style="flex-wrap: wrap;">
-<Badge href="umbresp.cat" alt="umbresp/sasha" src="/buttons/umbresp.gif" />
-<Badge href="joewang.me" alt="joe wang" src="/buttons/joewang.png" />
-<Badge href="jaysa.net" alt="jaysa" src="/buttons/jaysa.jpg" />
-<Badge href="ocf.io/rjz" alt="rjz" src="/buttons/rjz.png" />
-<Badge href="anna.dymchenko.com" alt="anna" src="/buttons/anna.png" />
-<Badge href="oliver.ni" alt="oliver" src="/buttons/oliver.png" />
-<Badge href="michaellisano.com" alt="michael" src="/buttons/michael.gif" />
-<Badge href="trinityjchung.com/yolkgirl" alt="trinity" src="/buttons/yolkgirl.gif" />
-<Badge href="brookemao.ca" alt="nix" src="/buttons/brooke.png" />
-<Badge href="bencuan" alt="bencuan" src="/buttons/bencuan.gif" />
-<Badge href="ocf.io" alt="ocf" src="/buttons/ocf.png" />
-<Badge href="devhack.net" alt="devhack" src="/buttons/devhack.gif" />
-<Badge href="svelte.dev" alt="svelte" src="/buttons/svelte.png" />
-<Badge href="nixos.org" alt="nix" src="/buttons/nix.png" />
-<Badge />
-</div>
-
-<br />
-
-
-<br/>
