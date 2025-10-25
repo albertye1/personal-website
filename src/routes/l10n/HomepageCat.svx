@@ -10,7 +10,7 @@
 Sóc Alberto, un exalumne de Berkeley i enginyer de programari que treballa en infraestructura d'emmagatzematge a Meta.
 Si faig un error a la feina, ho sabràs.
 També vaig fer pràctiques a Amazon per aprendre com es roben les dades d'Alexa i vaig formar part del personal docent
-de dues classes de nivell superior de Berkeley: CS 164 (compiladors) i CS 170 (algoritmes). Podeu veure el meu currículum complet
+de dues classes de nivell superior de Berkeley: CS 164 (compiladors) i CS 170 (algoritmes). Pods veure el meu currículum complet
 <a href="/resume.pdf">aquí</a>.
 </p>
 
