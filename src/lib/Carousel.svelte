@@ -28,7 +28,7 @@
 	.carousel {
 		position: relative;
 		width: 100%;
-		aspect-ratio: 16/9;
+		aspect-ratio: var(--aspect, 16/9);
 		margin: auto;
 		overflow: hidden;
 		border-radius: 10px;

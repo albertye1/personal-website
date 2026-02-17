@@ -25,6 +25,7 @@ felt cute
 			query: '?url',
 			import: 'default'
 		})
+		--aspect=9/16
 	)}/>
 
 # 8 dec 2025: ubc moment
@@ -44,6 +45,7 @@ one of the biggest exercises in night photo yet
 			query: '?url',
 			import: 'default'
 		})
+		--aspect=9/16
 	)}/>
 
 # 9 nov 2025: a drive to bellingham, wa
