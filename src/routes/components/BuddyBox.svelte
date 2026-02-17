@@ -6,7 +6,7 @@
 	<Badge href="umbresp.cat" alt="umbresp/sasha" src="/buttons/umbresp.gif" />
 	<Badge href="joewang.me" alt="joe wang" src="/buttons/joewang.png" />
 	<Badge href="jaysa.net" alt="jaysa" src="/buttons/jaysa.jpg" />
-	<Badge href="ocf.io/rjz" alt="rjz" src="/buttons/rjz.png" />
+	<Badge href="evelyn.dog" alt="rjz" src="/buttons/rjz.png" />
 	<Badge href="anna.dymchenko.com" alt="anna" src="/buttons/anna.png" />
 	<Badge href="oliver.ni" alt="oliver" src="/buttons/oliver.png" />
 	<Badge href="michaellisano.com" alt="michael" src="/buttons/michael.gif" />

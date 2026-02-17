@@ -1,7 +1,9 @@
-# projects
+# hobby projects
 * Homelab: Check status [here](http://radomus.albie.cat/).
-* [NixOS](https://github.com/albertye1/nix-configs): I use NixOS btw. Here are my configs. Soon I may update my
-    homelab with this as well.
+* [NixOS](https://github.com/albertye1/nix-configs): I use NixOS btw. Here are my configs. Spans my homelab, bare-metal, and WSL
+    configs.
+* [Immich](https://hachiware.albie.cat): To add a little bit of complexity to my docker hosting, I have added an Immich instance
+    to my homelab. What I'll do with this and how I can port my gallery to use this is TBD.
 * [Load Balancer](https://github.com/Storce/EE122-Project-SP2025/): Project with [Joe Wang](https://joewang.me/) and
     [Veronica Cheung](https://www.linkedin.com/in/veronica-cheung/).
     Tested the nginx load balancer for varying loads in a containerized environment and compared the results
