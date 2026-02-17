@@ -19,13 +19,12 @@ in that case, enjoy these static images.
 
 # 14 dec 2025: albert femboy arc
 felt cute
-<Carousel images={Object.values(
+<Carousel --aspect=9/16 images={Object.values(
 		import.meta.glob('$lib/assets/ownership/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
 			eager: true,
 			query: '?url',
 			import: 'default'
 		})
-		--aspect=9/16
 	)}/>
 
 # 8 dec 2025: ubc moment
@@ -39,13 +38,12 @@ one of the biggest exercises in night photo yet
 	)}/>
 
 # 26 nov 2025: nyc photodump 1
-<Carousel images={Object.values(
+<Carousel --aspect=9/16 images={Object.values(
 		import.meta.glob('$lib/assets/nyc-portrait/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
 			eager: true,
 			query: '?url',
 			import: 'default'
 		})
-		--aspect=9/16
 	)}/>
 
 # 9 nov 2025: a drive to bellingham, wa
