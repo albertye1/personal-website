@@ -42,7 +42,7 @@
 
 	.carousel-images img {
 		width: 100%;
-		aspect-ratio: 16/9;
+		aspect-ratio: var(--aspect, 16/9);
 		object-fit: cover;
 	}
 
