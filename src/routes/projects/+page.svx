@@ -1,4 +1,4 @@
-# hobby projects
+# projects
 * Homelab: Check status [here](http://radomus.albie.cat/).
 * [NixOS](https://github.com/albertye1/nix-configs): I use NixOS btw. Here are my configs. Spans my homelab, bare-metal, and WSL
     configs.
