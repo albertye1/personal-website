@@ -1,5 +1,5 @@
 # what i'm up to right now
-*as of 17 feb 2026*
+*as of 25 feb 2026*
 
 ## career
 Had a good first six months at Meta, starting to meet people and learn more about the interactions b/w
@@ -9,6 +9,11 @@ run the risk of being turned into a crutch. So I still need to *know* what the L
 while also still scaling productivity or whatever my CEO is yapping about.
 Thankfully unlike [some other companies](https://amazon.com) we
 aren't being token limited so I have a good playground to figure out this balance.
+
+Every week there's a new AI tool that drops and we all just have to figure out how to integrate it into
+our workflows. While this does mean I have a lot of QOL improvements compared to the people here before me,
+it does make me wonder why I'm actually working here as the bad QOL of doing menial tasks *is* what makes
+people interested in hiring junior-level SWEs.
 
 ## personal life
 Going through an adjustment right now after moving from the Bay, where I've lived my whole life, to
@@ -20,6 +25,6 @@ Probably working on becoming a better person by any means necessary. I do think 
 solitary person but that should change. However companionship is earned and I can't really get much
 of that just sulking around and being sad all day. I'll need to put in effort and find motivation.
 
-Improving my skiing skills somewhat to the point where I can confidently go down well-groomed black
-diamonds. Unfortunately, my friends will NOT let me forget that I'm still the slowest skier in the
+Improving my skiing skills somewhat to the point where I can confidently go down black diamonds, even
+with suboptimal terrain. Unfortunately, my friends will NOT let me forget that I'm still the slowest skier in the
 Slopes ranking.

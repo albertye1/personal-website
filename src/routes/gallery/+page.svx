@@ -3,86 +3,108 @@
 </script>
 
 # gallery
-i have an instance of immich hosted on `hachiware.albie.cat`. unfortunately you are unlikely to be cool enough
-to access that.
 
-in that case, enjoy these static images.
+remote images are up! now i probably need a better API to access the album.
 
-# 1 feb 2026: lwcc car shooting
-<Carousel images={Object.values(
-		import.meta.glob('$lib/assets/lwccjan/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+## 1 feb 2026: [lwcc car shooting](https://hachiware.albie.cat/s/lwcc2126)
+<Carousel images={[
+    "https://hachiware.albie.cat/api/assets/4b6879cc-6697-4f17-941b-6b002836008a/thumbnail?slug=lwcc2126&size=preview&c=mxgOFYSQVYVDqYiyd4iIhkhPkWUH",
+    "https://hachiware.albie.cat/api/assets/0d588876-077b-4ed5-9055-565844985e64/thumbnail?slug=lwcc2126&size=preview&c=VxgODYIIkZqEmHeHeWeIh0AHCXVm",
+    "https://hachiware.albie.cat/api/assets/24237c47-03e5-47d5-a64c-04253f911a15/thumbnail?slug=lwcc2126&size=preview&c=1fcRDYBbh3iPdneImXeHiaBGKAp2",
+    "https://hachiware.albie.cat/api/assets/d4a8b753-a2b0-4fc4-8ec7-705940441855/thumbnail?slug=lwcc2126&size=preview&c=FigKDYathJiPZ4iHmCiIhzI%2FcJQH",
+    "https://hachiware.albie.cat/api/assets/baf58671-b66c-47ac-bf06-1ef1dfecde75/thumbnail?slug=lwcc2126&size=preview&c=1vcNDYJ1e4h%2FVnebaKlla7vAqQyJ",
+    "https://hachiware.albie.cat/api/assets/ce114867-758a-422a-ae9b-68bc12ed4a8a/thumbnail?slug=lwcc2126&size=preview&c=kvcRHYSmiYd%2FiXiPd5h3iniAhAc4",
+    "https://hachiware.albie.cat/api/assets/609a41e7-533e-4076-9c28-071b14da31c7/thumbnail?slug=lwcc2126&size=preview&c=EcYFJYJHmI0IxqyOYmazqop%2Frdj3",
+    "https://hachiware.albie.cat/api/assets/d2ac5fc3-a1ad-4083-ae7f-c92fd491e6fd/thumbnail?slug=lwcc2126&size=preview&c=ygcGDYDmemegeIh5d1p4h3AYQuEF",
+    "https://hachiware.albie.cat/api/assets/6ad4825e-32b1-4ecb-acaa-df1fc791d655/thumbnail?slug=lwcc2126&size=preview&c=ovcVFQJ1d394SIdneHiIeHNgFgeG",
+    "https://hachiware.albie.cat/api/assets/668e94d3-0a8a-4041-88b0-c74adcbd35ad/thumbnail?slug=lwcc2126&size=preview&c=X%2BcNHYR3l5hwiIhel3eIk2qwhgZ7",
+    "https://hachiware.albie.cat/api/assets/04a3e9a3-5f38-4b8f-9a2d-776f1f656006/thumbnail?slug=lwcc2126&size=preview&c=GdcZHYSmZod%2FiIeHh2h4d2VgVwZ2",
+    "https://hachiware.albie.cat/api/assets/462231dc-c1af-47a5-bb00-9123c447f95c/thumbnail?slug=lwcc2126&size=preview&c=lPcJFYKsmJifeojLhUdYaIyg1gha"
+]}/>
 
-# 14 dec 2025: albert femboy arc
-felt cute
-<Carousel --aspect=9/16 images={Object.values(
-		import.meta.glob('$lib/assets/ownership/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+## 26 dec 2025: [monterey, ca family vacation](https://hachiware.albie.cat/s/monterey261225)
+<Carousel aspect=4/3 images={[
+    "https://hachiware.albie.cat/api/assets/0762e1b0-17d2-489c-b32b-c86ce5b3c76a/thumbnail?slug=monterey261225&size=preview&c=necZDYCGeHd%2Fd4iaeIiIh4qFv0j1",
+    "https://hachiware.albie.cat/api/assets/78778ef1-b087-4295-ad11-20edbfb1e258/thumbnail?slug=monterey261225&size=preview&c=pvcJDYJ4eIh2h4eBhweHdHhwgQc3",
+    "https://hachiware.albie.cat/api/assets/43266b6e-3a3a-404f-af02-685ecec20084/thumbnail?slug=monterey261225&size=preview&c=UxgKFYQ4iYhvdYdzeFiXhouDwFYI",
+    "https://hachiware.albie.cat/api/assets/468e336e-9b0e-406e-b28e-15acc4e78ac9/thumbnail?slug=monterey261225&size=preview&c=YOcJLYZoiGmXiIdvd5Z2cHZwYwdH",
+    "https://hachiware.albie.cat/api/assets/772019de-c8cb-4b6d-8210-fbeb9de814c0/thumbnail?slug=monterey261225&size=preview&c=mvcJDYKEWWhdmJZ2mAd4h6qCfyj4",
+    "https://hachiware.albie.cat/api/assets/eb1f1d71-22e4-430d-a177-fe9a492299c9/thumbnail?slug=monterey261225&size=preview&c=HNcNLYSjZ5d%2Fd3iBhnmHeYZgWAh2",
+    "https://hachiware.albie.cat/api/assets/b9f0242f-db26-4a92-9b96-52bc861652e5/thumbnail?slug=monterey261225&size=preview&c=Y8YNFYJAdYeniXiHiHh4ZtlAmC%2BD",
+    "https://hachiware.albie.cat/api/assets/580f78b0-30ce-495f-88ed-686db1b243e4/thumbnail?slug=monterey261225&size=preview&c=4OcJHYKbeHaviWeiiSd6lXdwf6j2",
+    "https://hachiware.albie.cat/api/assets/6595d433-9e18-4dff-a5d3-6373cc4bbb47/thumbnail?slug=monterey261225&size=preview&c=nOcVFYJzeHiPd3iKiHeJdpgwcwky"
+]}/>
 
-# 8 dec 2025: ubc moment
+## 8 dec 2025: [ubc moment](https://hachiware.albie.cat/s/van81225)
 one of the biggest exercises in night photo yet
-<Carousel images={Object.values(
-		import.meta.glob('$lib/assets/ubc/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+<Carousel images={[
+    "https://hachiware.albie.cat/api/assets/25b4e621-d9f2-4cfa-bab9-2c488ec638a7/thumbnail?slug=van81225&size=preview&c=AggGBIAI5ziGeYZzjHkIhYNQOA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/e0640220-b09b-43ef-b37c-09d846a85e0c/thumbnail?slug=van81225&size=preview&c=DAgKDICU1YZwdnaHi3m0YAdNNg%3D%3D",
+    "https://hachiware.albie.cat/api/assets/3f87bb45-f205-49da-93ca-b1d376b88634/thumbnail?slug=van81225&size=preview&c=AggCBIAK1Ex2imV0q4kJdqJgBw%3D%3D",
+    "https://hachiware.albie.cat/api/assets/56bf513d-dfb5-4c26-b186-f26ae1d314e8/thumbnail?slug=van81225&size=preview&c=VggKDIBFq1p9Z2eAaIYIZ2WwVQ%3D%3D",
+    "https://hachiware.albie.cat/api/assets/01d167f6-34f9-4ad0-aa47-b2d8aa166066/thumbnail?slug=van81225&size=preview&c=6QcSDIBUiIhfdoh3eZa%2FYPY4NA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/4a9a8415-5c45-42eb-81b7-94e6a2cfe713/thumbnail?slug=van81225&size=preview&c=j%2BcJFIKLiHhwd3eaiHeShyCJCA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/44f0d25b-728d-4682-98df-8c1a40734ee1/thumbnail?slug=van81225&size=preview&c=SAgKDIJWqYeQeYdph3VKYKcDdQ%3D%3D",
+    "https://hachiware.albie.cat/api/assets/8eb7dc24-bcc8-414a-924f-c46ba40fd88f/thumbnail?slug=van81225&size=preview&c=DQgGDIKFUxqdiGaQupVvv%2Fv0ug%3D%3D",
+    "https://hachiware.albie.cat/api/assets/c2f781ee-e939-4099-9ca5-5fe31bcad76f/thumbnail?slug=van81225&size=preview&c=RAgGFIIJ1kl0jHRmdngJc6cgdw%3D%3D",
+    "https://hachiware.albie.cat/api/assets/5ed1d374-14d0-4178-a54a-e129dcf49ef1/thumbnail?slug=van81225&size=preview&c=hQgGFIIH2XmHmXeCeHoHdHRAVw%3D%3D",
+    "https://hachiware.albie.cat/api/assets/e7dea2e7-b6ea-4377-bd1b-cee90fa0242a/thumbnail?slug=van81225&size=preview&c=SAgKBIB2iHdvh4h3eIdzfwLWNQ%3D%3D",
+    "https://hachiware.albie.cat/api/assets/ca1e1c0b-e1ac-45f1-964b-2d6f2129dbbd/thumbnail?slug=van81225&size=preview&c=CzkGDIJrmVefiYVYiGk7r3jQrg%3D%3D"
+]}/>
 
-# 26 nov 2025: nyc photodump 1
-<Carousel --aspect=9/16 images={Object.values(
-		import.meta.glob('$lib/assets/nyc-portrait/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+## 26 nov 2025: [nyc photodump 1](https://hachiware.albie.cat/s/ny261125)
+<Carousel --aspect=9/16 images={[
+    "https://hachiware.albie.cat/api/assets/61f2405f-26f5-4b14-8040-9778bffaedf4/thumbnail?slug=ny261125&size=preview&c=E%2FgNDABS%2BnXYloh5iIdntjAWDA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/3b4ad82c-e99d-48c6-8d83-1d06dd9f0612/thumbnail?slug=ny261125&size=preview&c=1vcNFARW%2BHfIiIpod4eYg4AJCQ%3D%3D",
+    "https://hachiware.albie.cat/api/assets/2c1d1a95-b2a0-4a07-a81a-b31123b48a78/thumbnail?slug=ny261125&size=preview&c=FQgWDAJIiHcHqHa4h4hIdoB0CA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/3a503b3e-0f10-45c9-bb85-90a5cfdd5b2b/thumbnail?slug=ny261125&size=preview&c=3hcWDASY%2BIhneHaHd3gI1oX2eg%3D%3D",
+    "https://hachiware.albie.cat/api/assets/9d783c7f-b14e-40b2-ba71-21519e7e2ff3/thumbnail?slug=ny261125&size=preview&c=hhgGFAJ2CIh3eWl4eJh3cGcHdw%3D%3D",
+    "https://hachiware.albie.cat/api/assets/d515cd09-fe0b-41d9-9d94-7dc98ada10ef/thumbnail?slug=ny261125&size=preview&c=DAgGBACwhadmxJhmaijvtLSvGQ%3D%3D",
+    "https://hachiware.albie.cat/api/assets/7bf2787a-e1d9-41dd-9fb8-25e9ab5bcf1c/thumbnail?slug=ny261125&size=preview&c=DRgGFAJ2lrMIlYpJmYcAYwR3Fg%3D%3D",
+    "https://hachiware.albie.cat/api/assets/9e711870-9ee2-49cc-905b-c223b2ac65dc/thumbnail?slug=ny261125&size=preview&c=jRgGDAJ3l3oHZ2W5eGplj3GjBQ%3D%3D",
+    "https://hachiware.albie.cat/api/assets/7317af65-0c39-419c-b298-0f889ded32a5/thumbnail?slug=ny261125&size=preview&c=IhgWFAKa%2BIeHZoh4eIc0gEUBOA%3D%3D"
+]}/>
 
-# 9 nov 2025: a drive to bellingham, wa
-<Carousel images={Object.values(
-		import.meta.glob('$lib/assets/chuck/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+## 9 nov 2025: [a drive to bellingham, wa](https://hachiware.albie.cat/s/chuck91125)
+<Carousel images={[
+    "https://hachiware.albie.cat/api/assets/510979f5-0de3-427b-8fbc-f1fbe20d9bd5/thumbnail?slug=chuck91125&size=preview&c=XPcVHIJ4eId%2Fd3eIeIWYgJgF6Q%3D%3D",
+    "https://hachiware.albie.cat/api/assets/0c399d23-7c8a-4dc0-ab39-f03cb5d379bd/thumbnail?slug=chuck91125&size=preview&c=mPcRJIJ4eIh%2FeHiId4WGkJMIFw%3D%3D",
+    "https://hachiware.albie.cat/api/assets/62393e5a-314c-4bbc-a4ae-f5e1c1c86f64/thumbnail?slug=chuck91125&size=preview&c=mxcOLIx4iHd%2FiIdweHh6g7BXCA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/e8d8e9e2-9876-49e9-8c7b-4eef31e22d65/thumbnail?slug=chuck91125&size=preview&c=ivcFDYJUd6lshoh%2FeJd4h8mAlw2Y"
+]}/>
 
-# 27 apr 2025: de anza car show
-<Carousel images={Object.values(
-		import.meta.glob('$lib/assets/cars/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+## 27 apr 2025: [de anza car show](https://hachiware.albie.cat/s/deanza2025)
+<Carousel images={[
+    "https://hachiware.albie.cat/api/assets/70c14021-108a-4a21-8da1-849d8713a3c0/thumbnail?slug=deanza2025&size=preview&c=FTgGDYi%2BpYZAoqZUmqe7abQfTPiV",
+    "https://hachiware.albie.cat/api/assets/18e58dd2-7a25-4754-a7b6-ebd6a11bd7be/thumbnail?slug=deanza2025&size=preview&c=UhkGLYQZp5eXhXdwfEd0hhmXgHEJ",
+    "https://hachiware.albie.cat/api/assets/2da59926-a417-4a2d-9c85-50e22b6d03d3/thumbnail?slug=deanza2025&size=preview&c=1QcSDYK1d5d1eYaPiFaYh1ACWQpU",
+    "https://hachiware.albie.cat/api/assets/82785fa2-3974-4de7-b499-552180d5248c/thumbnail?slug=deanza2025&size=preview&c=kfcNFYSodnePWXabaIeYebJwSgp3"
+]}/>
 
-# 22 apr 2025: my friend wants me to put up this image
+## 22 apr 2025: my friend wants me to put up this image
 easiest ten dollars of my life
 <img src="/tendollar.jpg" />
 <br>
 
-# 8 mar 2025: berkeley chaos gourmet trip
-<Carousel images={Object.values(
-		import.meta.glob('$lib/assets/chaos/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+## 8 mar 2025: [berkeley chaos gourmet trip](https://hachiware.albie.cat/s/chaos2)
+<Carousel images={[
+    "https://hachiware.albie.cat/api/assets/e4b509b4-a1c2-434e-82a6-466c156d9657/thumbnail?slug=chaos2&size=preview&c=jRgGDYI3ZHpvZphweUWIlCQvUGUI",
+    "https://hachiware.albie.cat/api/assets/8bd49ae1-7fb4-483d-9cb5-26ec3834164f/thumbnail?slug=chaos2&size=preview&c=khgOJIRiWWl5d3iQeHtzgCEGCA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/81731ac3-d283-4d44-a357-4c84b1e454fb/thumbnail?slug=chaos2&size=preview&c=WKYVRY54iId%2FeId0eFd4iYhwdwho",
+    "https://hachiware.albie.cat/api/assets/a94b210c-f483-481d-aba0-f90591f61911/thumbnail?slug=chaos2&size=preview&c=F%2BgVNIqHeHdvd4d4h4SHYHQJRg%3D%3D",
+    "https://hachiware.albie.cat/api/assets/481376a5-5c08-4f5b-92dc-3ab2db7e572e/thumbnail?slug=chaos2&size=preview&c=3OcNLIj5dmefiIhyg3o5cJUCSA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/3fba6ce1-b291-4116-b760-d59a53d83d00/thumbnail?slug=chaos2&size=preview&c=ETkGFIKkaHo%2Feal7hqZtYNcEdg%3D%3D",
+    "https://hachiware.albie.cat/api/assets/c0a5d339-07b2-4a9b-a420-073f6143a230/thumbnail?slug=chaos2&size=preview&c=X7YRTIp4mIiPeHeBeIiIgJgIeA%3D%3D",
+    "https://hachiware.albie.cat/api/assets/55ec4c0c-e6bb-4b45-8278-bebd93419ee5/thumbnail?slug=chaos2&size=preview&c=VBgGDQLEi1t3GXrYOGAKdS%2BgkwGJ",
+    "https://hachiware.albie.cat/api/assets/5fcd1ced-07ae-45e9-b6b0-b111c44a22b6/thumbnail?slug=chaos2&size=preview&c=BAgGDYIqdHZAypqpV3RnhQeEc0A4"
+]}/>
 
-# 15 feb 2025: berkeley ocf retreat
-<Carousel images={Object.values(
-		import.meta.glob('$lib/assets/ocfretreat/*.{png,jpg,jpeg,PNG,JPG,JPEG}', {
-			eager: true,
-			query: '?url',
-			import: 'default'
-		})
-	)}/>
+## 15 feb 2025: [berkeley ocf retreat](https://hachiware.albie.cat/s/ocf)
+<Carousel images={[
+    "https://hachiware.albie.cat/api/assets/1dbb2cc8-b9ce-4841-8412-f3b8dd55a06e/thumbnail?slug=ocf&size=preview&c=IAgKDYBliHivg5duiJh3bbwLmHUF",
+    "https://hachiware.albie.cat/api/assets/6e5e0fd0-2b76-4e27-b3c6-c12a31371879/thumbnail?slug=ocf&size=preview&c=pOcRFYJmd3iPeHiFiJh3d5pgqgm3",
+    "https://hachiware.albie.cat/api/assets/4397c9aa-ad74-4657-b0fc-e6902b094690/thumbnail?slug=ocf&size=preview&c=VBgODYIIqKWHiYdyi6ZoiCtvpvKF",
+    "https://hachiware.albie.cat/api/assets/a28769ef-13cd-4eee-aac7-0e3f8a1c939a/thumbnail?slug=ocf&size=preview&c=maYRRJB1eHePeHiXh3WIcIYIVw%3D%3D",
+    "https://hachiware.albie.cat/api/assets/528ab66e-2b60-4e0b-ad73-a35b59092ecd/thumbnail?slug=ocf&size=preview&c=GMcNPIqPp4eNZ3hCh4iGcFcIdw%3D%3D",
+    "https://hachiware.albie.cat/api/assets/5be386a0-bcf3-482a-8feb-1e110b95307f/thumbnail?slug=ocf&size=preview&c=l7YJPIp9d3hvh4hQiKeGcFoIpg%3D%3D"
+]}/>
