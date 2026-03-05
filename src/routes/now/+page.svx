@@ -1,19 +1,17 @@
 # what i'm up to right now
-*as of 25 feb 2026*
+*as of 5 mar 2026*
 
 ## career
 Had a good first six months at Meta, starting to meet people and learn more about the interactions b/w
 my team and the rest of FB. Trying my best to navigate the New World Order of using (but not
-abusing) LLMs in software engineering. LLMs make a lot of things much more convenient but also
-run the risk of being turned into a crutch. So I still need to *know* what the LLM is doing
-while also still scaling productivity or whatever my CEO is yapping about.
+abusing) LLMs in software engineering. Unfortunately to stay "ahead" I'll have to use them to
+automate as much of my menial work as possible. The hidden imperative is also to stop having
+menial tasks dominate my workflow by aggressively looking for opportunities to scope out my own projects.
 Thankfully unlike [some other companies](https://amazon.com) we
 aren't being token limited so I have a good playground to figure out this balance.
 
-Every week there's a new AI tool that drops and we all just have to figure out how to integrate it into
-our workflows. While this does mean I have a lot of QOL improvements compared to the people here before me,
-it does make me wonder why I'm actually working here as the bad QOL of doing menial tasks *is* what makes
-people interested in hiring junior-level SWEs.
+If I've been sold on a lie and software engineering will just go bust in 2 years you'll catch me at the
+Discount Tire reevaluating my life choices.
 
 ## personal life
 Going through an adjustment right now after moving from the Bay, where I've lived my whole life, to
@@ -26,5 +24,19 @@ solitary person but that should change. However companionship is earned and I ca
 of that just sulking around and being sad all day. I'll need to put in effort and find motivation.
 
 Improving my skiing skills somewhat to the point where I can confidently go down black diamonds, even
-with suboptimal terrain. Unfortunately, my friends will NOT let me forget that I'm still the slowest skier in the
-Slopes ranking.
+with suboptimal terrain. Unfortunately, my friends will NOT let me forget that I'm still a bottom feeder in the
+Slopes ranking. The season has also been utterly atrocious in terms of snow. Hopefully there's a late saving grace,
+
+Purchased a Honda K24 to swap into my car. Since my last blog post, I've done a little more research
+on what this entails. The biggest kicker that actually encouraged me to do this swap was that one of
+the kit fabricators was indeed a local shop that also deals in tunes, etc. Thus, there is a consistent
+and accessible support base for me to undertake this swap. It also opens the option of paying a sizable
+sum of money to have someone else do this and keep my own hands clean. It might be more rewarding in
+hindsight to DIY and pay some friends in food and alcohol instead, but the car also seems to be cursed
+from previous working attempts and nothing seems to work the first time. Or maybe I'm just incompetent
+and getting angered by my own awful decisions.
+
+## music rotation
+Every few months or so I make a new Spotify playlist with an assortment of songs. The most recent iteration will be linked
+here until I get off Spotify.
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6MRREzCGo7padjJwRPjPvw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

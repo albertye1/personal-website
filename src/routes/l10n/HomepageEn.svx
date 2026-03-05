@@ -18,6 +18,7 @@ At Berkeley, I'm involved in the [Open Computing Facility](https://ocf.io), and 
 [CALICO](https://calico.cs.berkeley.edu) and [BMT](https://berkeley.mt).
 
 Outside of school and work, I surprisingly enjoy [going outside](/gallery) sometimes.
+You can see a snapshot of what I'm doing [now](/now) too.
 
 # socials
 * GitHub: [albertye1](https://github.com/albertye1)
