@@ -1,7 +1,7 @@
 # projects
-* Homelab: Check status [here](http://radomus.albie.cat/).
 * [NixOS](https://github.com/albertye1/nix-configs): I use NixOS btw. Here are my configs. Spans my homelab, bare-metal, and WSL
     configs.
+* Z3K: check back later?
 * [Immich](https://hachiware.albie.cat): To add a little bit of complexity to my docker hosting, I have added an Immich instance
     to my homelab. This is being used for many purposes, including to host my [gallery](/gallery).
 * [Load Balancer](https://github.com/Storce/EE122-Project-SP2025/): Project with [Joe Wang](https://joewang.me/) and
@@ -27,5 +27,5 @@
 
 # other todo
 * filter by tag on blog
-* local image gallery.
-* return to hosting on baremetal
+* github actions
+* lsp for mdsvex
