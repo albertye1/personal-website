@@ -6,8 +6,29 @@
 
 remote images are up! now i probably need a better API to access the album.
 
+## 15 mar 2026: [centralia WA local finds](https://hachiware.albie.cat/s/olympia)
+<Carousel --aspect=2/3 images={[
+    "https://hachiware.albie.cat/api/assets/af181969-c65b-4c33-9633-2ac27b2c50d1/thumbnail?key=Oldu6Rhdns9NGuarfKBO451mf6QCNxOZJfmB7iSzMWPuCoFVwkR8vuo7Cy5Fxpnz1pE&size=preview&c=DQgGHYJjZoOvc1Z9WniGZY2X8NQI",
+    "https://hachiware.albie.cat/api/assets/6fd6d5d8-b4eb-4f54-81fd-230722a71246/thumbnail?key=Oldu6Rhdns9NGuarfKBO451mf6QCNxOZJfmB7iSzMWPuCoFVwkR8vuo7Cy5Fxpnz1pE&size=preview&c=CggGDQInuHCHabemiYZ3h0mApAWG",
+    "https://hachiware.albie.cat/api/assets/2e0223fd-9406-4ef7-b740-a53f41dad57e/thumbnail?key=Oldu6Rhdns9NGuarfKBO451mf6QCNxOZJfmB7iSzMWPuCoFVwkR8vuo7Cy5Fxpnz1pE&size=preview&c=SwgGDQLlB1jHFFNJWuZZmapwowp2",
+    "https://hachiware.albie.cat/api/assets/841be293-8189-42c0-a327-f077cecfa8fe/thumbnail?key=Oldu6Rhdns9NGuarfKBO451mf6QCNxOZJfmB7iSzMWPuCoFVwkR8vuo7Cy5Fxpnz1pE&size=preview&c=BvgFDQAFuYV4SNhnh4xzR2eAdwRZ"
+]}/>
+
+## 8 mar 2026: [never a bad day to explore vancouver](https://hachiware.albie.cat/s/van8326)
+<Carousel --aspect=3/2 images={[
+    "https://hachiware.albie.cat/api/assets/e8071a61-2438-4b81-b5c5-80e45ebdae1e/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=F%2BcNFYJweYh4mHenlXd3h%2FdmZi93",
+    "https://hachiware.albie.cat/api/assets/ed60c3cd-8432-4a49-8aae-b4cb4ac51ed6/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=2vcFJYRZyYp%2FlYhvi5iL0YmAkwlp",
+    "https://hachiware.albie.cat/api/assets/27a508ef-47ba-4075-9b8f-312ca2672cea/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=mfcJLYa3q3dgh3loiMZ6dhxQqSCW",
+    "https://hachiware.albie.cat/api/assets/24c1cc8d-734d-4c63-93e8-d7142ef46c4f/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=XucZHYR3eIiPd3iIeFh4dniAlwd5",
+    "https://hachiware.albie.cat/api/assets/507b0a74-d8e5-4d28-b86a-165ff3ce956d/original?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&c=n9YRHYJXeHiPeIeFeTh4iniQhQdp",
+    "https://hachiware.albie.cat/api/assets/5523da94-ac9e-4aef-834d-b65e6e1fc815/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=WOcZHYKIh3h%2FeHd3h3eIiIhwewjn",
+    "https://hachiware.albie.cat/api/assets/56a2d9a7-361c-4858-b870-3666c8fa6803/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=U%2BcNHYKDd4ZfdneOh4dqh4ywsAg7",
+    "https://hachiware.albie.cat/api/assets/8046e373-ff16-48a2-817e-71a14ca9cc97/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=WecRDYJ5eHifd3hreJd4doKAXTf4",
+    "https://hachiware.albie.cat/api/assets/87246b54-4d7f-4d85-a130-4a13b8c7ae48/thumbnail?key=9EUHMaP4VFeohq3jylQuhyXS2AEU7wBWa8AV5RuPE4rzi5ee_Mbr0zLkHzX2ZCUVNiw&size=preview&c=TQgKDYIIiUePlHiTaDqZmmqvrfi7"
+]}/>
+
 ## 1 feb 2026: [lwcc car shooting](https://hachiware.albie.cat/s/lwcc2126)
-<Carousel images={[
+<Carousel --aspect=3/2 images={[
     "https://hachiware.albie.cat/api/assets/4b6879cc-6697-4f17-941b-6b002836008a/thumbnail?slug=lwcc2126&size=preview&c=mxgOFYSQVYVDqYiyd4iIhkhPkWUH",
     "https://hachiware.albie.cat/api/assets/0d588876-077b-4ed5-9055-565844985e64/thumbnail?slug=lwcc2126&size=preview&c=VxgODYIIkZqEmHeHeWeIh0AHCXVm",
     "https://hachiware.albie.cat/api/assets/24237c47-03e5-47d5-a64c-04253f911a15/thumbnail?slug=lwcc2126&size=preview&c=1fcRDYBbh3iPdneImXeHiaBGKAp2",
@@ -23,7 +44,7 @@ remote images are up! now i probably need a better API to access the album.
 ]}/>
 
 ## 26 dec 2025: [monterey, ca family vacation](https://hachiware.albie.cat/s/monterey261225)
-<Carousel aspect=4/3 images={[
+<Carousel --aspect=3/2 images={[
     "https://hachiware.albie.cat/api/assets/0762e1b0-17d2-489c-b32b-c86ce5b3c76a/thumbnail?slug=monterey261225&size=preview&c=necZDYCGeHd%2Fd4iaeIiIh4qFv0j1",
     "https://hachiware.albie.cat/api/assets/78778ef1-b087-4295-ad11-20edbfb1e258/thumbnail?slug=monterey261225&size=preview&c=pvcJDYJ4eIh2h4eBhweHdHhwgQc3",
     "https://hachiware.albie.cat/api/assets/43266b6e-3a3a-404f-af02-685ecec20084/thumbnail?slug=monterey261225&size=preview&c=UxgKFYQ4iYhvdYdzeFiXhouDwFYI",
