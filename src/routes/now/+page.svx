@@ -1,42 +1,64 @@
 # what i'm up to right now
-*as of 5 mar 2026*
+*as of 15 apr 2026*
 
 ## career
-Had a good first six months at Meta, starting to meet people and learn more about the interactions b/w
-my team and the rest of FB. Trying my best to navigate the New World Order of using (but not
-abusing) LLMs in software engineering. Unfortunately to stay "ahead" I'll have to use them to
-automate as much of my menial work as possible. The hidden imperative is also to stop having
-menial tasks dominate my workflow by aggressively looking for opportunities to scope out my own projects.
-Thankfully unlike [some other companies](https://amazon.com) we
-aren't being token limited so I have a good playground to figure out this balance.
+Not fired yet. LLMs are the smartest idiots to ever curse this planet. Unfortunately, I've been increasingly
+forced to work with them. To be not mean, there definitely have been a lot of improvements in QoL for refactors,
+which do play an outsized role for me as a junior engineer. Semantic checks for reviews are now quite good as
+well, so a lot of issues that I'd make as an inexperienced engineer can be caught.
 
-If I've been sold on a lie and software engineering will just go bust in 2 years you'll catch me at the
-Discount Tire reevaluating my life choices.
+But, there are also some clear negatives and fears.
+- AI is notably pretty awful at dealing with anything requiring context on a pretty large codebase.
+There are some things that are quite easy with a human workflow that AI will unnecessarily struggle on.
+Despite what that guy on the street told me, every model still hallucinates like mad.
+- It's pretty easy to just get an LLM to believe whatever you tell it, so operator skill does also
+matter when pushing agents along.
+- Right now we're pushing through lots of code. However, as someone who's learning, just using AI might
+miss some of the nuances of the existing codebase. I'll need to figure those out and ensure that any of
+the Invisible Rules (TM) aren't being broken whenever I vibecode something.
+
+Not a god-tier prompter, but it seems that answering these will probably be differentiating skills
+for engineers, which still requires me "get good" the old-fashioned way. But with more pressure to
+deliver more stuff and more (very dangerous) tools at my disposal, I'll have to choose a very
+deliberate line.
+
+Honestly it's a good thing that LLMs are far from perfect, and realizing that is similarly good.
+Would not want to be relying on Claude to Make No Mistakes and taking its word for everything, as
+anything that can be so easily automated is not somewhere I should try to spend all my time on.
+Whether or not you see me at a Discount Tire in two years depends on if I capture the right
+skillset from the old frontier and am a wise adopter of the new frontier.
 
 ## personal life
 Going through an adjustment right now after moving from the Bay, where I've lived my whole life, to
-Seattle, where I never imagined living right up until I was told I had to go there. Hopefully making
-a somewhat positive name in the Washington State car community. Also hope to take advantage of the
-lack of vehicle inspection while I'm up here and "build my dreams".
+Seattle, where I never imagined living right up until I was told I had to go there. The Washington State
+car community has been a very mixed bag with wins relatively uncommon. I've had a bit more luck finding
+individual cool people and branching out into other hobbies like photography, as many of the car-meet
+dwellers aren't really my type of person.
 
-Probably working on becoming a better person by any means necessary. I do think I'm a generally
-solitary person but that should change. However companionship is earned and I can't really get much
-of that just sulking around and being sad all day. I'll need to put in effort and find motivation.
+Doesn't mean I'll stop trying to build my car or take it onto the track. That effort
+is encouraged by local resources, such as a large contingent of E36 enthusiasts and a
+local shop (22RPD) that supports an E36 K-swap kit and tunes European cars. From what I hear
+around the grapevine, the shop is reputable! Hopefully none of the parts rust out before I get to it.
 
-Improving my skiing skills somewhat to the point where I can confidently go down black diamonds, even
-with suboptimal terrain. Unfortunately, my friends will NOT let me forget that I'm still a bottom feeder in the
-Slopes ranking. The season has also been utterly atrocious in terms of snow. Hopefully there's a late saving grace,
+I'll have to hash out the garage space issue now, too. My garage is good for small repairs, such as
+wheels, suspension, etc. But it's too small to handle a whole engine swap. That'll probably need either
+a very generous friend or professional support from 22RPD. Neither's a bad option if I repay in kind
+(easier for a business).
 
-Purchased a Honda K24 to swap into my car. Since my last blog post, I've done a little more research
-on what this entails. The biggest kicker that actually encouraged me to do this swap was that one of
-the kit fabricators was indeed a local shop that also deals in tunes, etc. Thus, there is a consistent
-and accessible support base for me to undertake this swap. It also opens the option of paying a sizable
-sum of money to have someone else do this and keep my own hands clean. It might be more rewarding in
-hindsight to DIY and pay some friends in food and alcohol instead, but the car also seems to be cursed
-from previous working attempts and nothing seems to work the first time. Or maybe I'm just incompetent
-and getting angered by my own awful decisions.
+But overall, as of now, I've got people in the Bay and I've got people in Seattle. It's starting to feel less
+like I've got to cope while I'm up here and more that it's a different subset of cool people.
+Having a small contingent and decent weather does make this place feel less suffocating.
+Hopefully this stays the same after some soon-pending upheavals.
+
+I've started picking up skiing more and more. The result of this is a greater knowledge of what good
+form should look like, a mild improvement in practiced form, no longer being last place in the
+top speed rankings, and better confidence on bumpier and less polished black diamonds. I did every other
+bucket list item last week at Mount Baker, such as skiing (functionally sliding on ice) down a
+double-black and doing a bunch of piste runs in a very outrageous cosplay. Maybe I should've had better
+carving before I tried that, though. It's aura loss if you don't do it well.
 
 ## music rotation
-Every few months or so I make a new Spotify playlist with an assortment of songs. The most recent iteration will be linked
-here until I get off Spotify.
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6MRREzCGo7padjJwRPjPvw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+This rotation is an album.
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5B4zpYhcIOJXQO7YWBh0LE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<br/>

@@ -11,6 +11,13 @@ ul {
 # all posts
 
 <ul>
+    <li>
+        <h2>
+            <a href="/now">now page</a>
+        </h2>
+        <p class="sub">Updated periodically</p>
+    </li>
+    <hr class="rule"/>
 	{#each data.posts as post}
 		<li>
 			<h2>
@@ -18,8 +25,8 @@ ul {
 					{post.meta.title}
 				</a>
 			</h2>
-			<p class="text-slate-600 dark:text-stone-300"><i>Published {post.meta.date}</i></p>
+			<p class="sub">Published {post.meta.date}</p>
 		</li>
-        <hr class="mb-3 text-slate-400 dark:text-stone-400"/>
+        <hr class="rule"/>
 	{/each}
 </ul>

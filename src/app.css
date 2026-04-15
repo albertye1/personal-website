@@ -1,13 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/texturina');
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.cdnfonts.com/css/sofia-sans');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
 @import 'tailwindcss';
 
 @custom-variant dark (&:where(.dark, .dark *));
 
 body {
-	font-family: 'Cabin', sans-serif;
-	@apply bg-sky-50 text-slate-800 transition-all dark:bg-zinc-900 dark:text-zinc-200;
+	font-family: 'Sofia Sans', sans-serif;
+	@apply bg-taupe-300 text-taupe-800 transition-all dark:bg-neutral-900 dark:text-taupe-300;
 }
 
 p {
@@ -22,7 +23,7 @@ img[alt='blogpic'] {
 }
 
 a {
-	@apply text-sky-600 transition-all hover:text-blue-400 dark:text-green-500 dark:hover:text-emerald-300;
+	@apply text-green-700 transition-all hover:text-lime-600 dark:text-yellow-500 dark:hover:text-red-400;
 }
 h1,
 h2,
@@ -31,18 +32,26 @@ h4,
 h5,
 h6,
 nav {
-	font-family: 'Manrope', sans-serif;
+	font-family: 'Texturina', sans-serif;
 	padding-bottom: 10px;
 }
 
 code {
 	font-family: Inconsolata, monospace;
 	font-size: 12.5pt;
-	@apply !text-indigo-600 dark:!text-emerald-300;
+	@apply !text-lime-600 dark:!text-amber-300;
 }
 
 .b {
-	@apply px-1 !text-slate-700 hover:underline dark:!text-zinc-300;
+	@apply px-1 !text-taupe-700 hover:underline dark:!text-taupe-400;
+}
+
+.sub {
+	@apply !text-taupe-700 italic dark:!text-taupe-400;
+}
+
+.rule {
+	@apply mb-3 text-taupe-400 dark:text-stone-700;
 }
 
 ul {
@@ -61,6 +70,5 @@ ul {
 }
 
 .lang {
-	@apply w-18 !bg-sky-700 !text-sky-100 dark:!bg-emerald-400 dark:!text-zinc-800;
-	transition: 500ms;
+	@apply w-18 !bg-green-700 !text-taupe-300 transition-all hover:!bg-lime-600 dark:!bg-yellow-500 dark:!text-neutral-900 dark:hover:!bg-red-400;
 }

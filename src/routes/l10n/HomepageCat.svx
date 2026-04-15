@@ -17,7 +17,9 @@ de dues classes de nivell superior de Berkeley: CS 164 (compiladors) i CS 170 (a
 A Berkeley, estava involvat en la [Facilitat de Computació Obert](https://ocf.io)
 i escrivia problemes de matemàtiques per a [CALICO](https://calico.cs.berkeley.edu) i [BMT](https://berkeley.mt).
 
-Fora de l'escola i la feina, sorprenentement m'agrada [sortir a fora](/gallery) a vegades.
+<center><img width=50% src="albert.png" /></center><br/>
+
+Fora de l'escola i la feina, m'agrada [fer fotos](/gallery) a vegades.
 També pots llegir què estic fent [ara](/now).
 
 # xarxes socials

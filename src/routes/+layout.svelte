@@ -11,9 +11,8 @@
 			<div class="flex shrink-0 items-center">
 				<brand class="pr-5 text-xl">Albert Ye</brand>
 				<a class="b" href="/">home</a> /
-				<a class="b" href="/projects">projects</a>
-				/
-				<a class="b" href="/gallery">gallery</a> /
+				<a class="b" href="/projects">projects</a> /
+				<a class="b" href="/gallery">pics</a> /
 				<a class="b" href="/blog">blog</a>
 			</div>
 		</div>
@@ -28,6 +27,6 @@
 <style>
 	a,
 	a:hover {
-		transition: 500ms;
+		transition: 250ms;
 	}
 </style>

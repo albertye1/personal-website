@@ -6,7 +6,6 @@
 
 
 <p>
-<TimedHello />
 I'm a Berkeley alum and software engineer working in storage infra at Meta. If I
 mess up at work, you will know.
 I also interned at Amazon to learn how your Alexa data is harvested, and was on course staff
@@ -14,11 +13,13 @@ for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorith
 resume can be seen <a href="/resume.pdf">here</a>.
 </p>
 
-At Berkeley, I'm involved in the [Open Computing Facility](https://ocf.io), and write problems for
+At Berkeley, I was involved in the [Open Computing Facility](https://ocf.io), and write problems for
 [CALICO](https://calico.cs.berkeley.edu) and [BMT](https://berkeley.mt).
 
-Outside of school and work, I surprisingly enjoy [going outside](/gallery) sometimes.
-You can see a snapshot of what I'm doing [now](/now) too.
+<center><img width=50% src="albert.png" /></center><br/>
+
+Outside of school and work, I enjoy [taking pictures](/gallery) sometimes.
+You can see a snapshot of what I'm hyperfixating on [now](/now) too.
 
 # socials
 * GitHub: [albertye1](https://github.com/albertye1)
