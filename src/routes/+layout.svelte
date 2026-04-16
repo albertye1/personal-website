@@ -9,7 +9,7 @@
 	<div class="flex h-16 justify-between">
 		<div class="flex">
 			<div class="flex shrink-0 items-center">
-				<brand class="pr-5 text-xl">Albert Ye</brand>
+				<brand class="pr-3 text-xl">Albert Ye</brand>
 				<a class="b" href="/">home</a> /
 				<a class="b" href="/projects">projects</a> /
 				<a class="b" href="/gallery">pics</a> /

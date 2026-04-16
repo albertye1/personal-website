@@ -67,7 +67,7 @@
 <button
 	class="{dark
 		? 'bg-zinc-600 focus:ring-zinc-400 ring-offset-zinc-700'
-		: 'bg-amber-500 focus:ring-amber-500 ring-offset-white'} relative inline-flex flex-shrink-0 h-5 w-9 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-200 focus:outline-none focus:ring-none focus:ring-offset-none m-4"
+		: 'bg-amber-500 focus:ring-amber-500 ring-offset-white'} relative inline-flex flex-shrink-0 h-5 w-9 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-250 focus:outline-none focus:ring-none focus:ring-offset-none m-1"
 	class:hidden
 	type="button"
 	aria-checked={dark}

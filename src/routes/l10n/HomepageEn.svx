@@ -5,21 +5,30 @@
 </script>
 
 
-<p>
-I'm a Berkeley alum and software engineer working in storage infra at Meta. If I
-mess up at work, you will know.
-I also interned at Amazon to learn how your Alexa data is harvested, and was on course staff
-for two upper-division Berkeley classes: CS 164 (compilers) and CS 170 (algorithms). My full
-resume can be seen <a href="/resume.pdf">here</a>.
-</p>
+<div id="parent" style="display:flex">
+    <div id="left" style="flex:15">
+        <p>
+        <TimedHello /> I'm a software engineer at Meta working on scaling and streamlining
+        the storage system for modern (read: rapidly increasing) demands.
+        Before this gig, I went to Berkeley to study <b>C</b>oping and <b>S</b>elling out.
+        My <a href="/resume.pdf">resume</a> should have more relevant info.
+        </p>
 
-At Berkeley, I was involved in the [Open Computing Facility](https://ocf.io), and write problems for
-[CALICO](https://calico.cs.berkeley.edu) and [BMT](https://berkeley.mt).
+        <p>
+        I oscillate between my hobbies of
+        cars, <a href="/gallery">photography</a>, skiing, <a href="/projects">miscellaneous computer stuff</a>, and traveling.
+        As none of these are cheap, I'm proud to say I'm a highly motivated engineer.
+        </p>
+    </div>
+    <div id="right" style="flex:10">
+        <center><img class="pl-5" src="albert.png" /></center><br/>
+    </div>
+</div>
 
-<center><img width=50% src="albert.png" /></center><br/>
-
-Outside of school and work, I enjoy [taking pictures](/gallery) sometimes.
-You can see a snapshot of what I'm hyperfixating on [now](/now) too.
+I'm a big fan of speaking before I think. To avoid further
+reputational damage, I have a [containment zone](/blog) for errant words that gets too
+little traffic to actually matter.
+You can see a snapshot of what I'm spending my time on [now](/now) too.
 
 # socials
 * GitHub: [albertye1](https://github.com/albertye1)
