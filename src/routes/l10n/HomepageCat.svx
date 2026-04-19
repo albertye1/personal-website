@@ -4,23 +4,20 @@
 	import Friends from '../components/Friends.svx';
 </script>
 
-<div id="parent" style="display:flex">
-    <div id="left" style="flex:15">
-        <p>
-        <TimedHello lang=1 />
-        Sóc Alberto, un exalumne de Berkeley i enginyer de programari que treballa en infraestructura d'emmagatzematge a Meta.
-        Si faig un error a la feina, ho sabràs. Pots veure el meu currículum complet
-        <a href="/resume.pdf">aquí</a>.
-        </p>
+<div id="parent">
+    <img class="pl-5" src="albert.png" style="float:right; margin-left:1.5rem; margin-bottom:0.5rem; max-width:40%;" />
 
-        <p>
-        Fora de l'escola i la feina, m'agrada cotxes, <a href="/gallery">fotografia</a>, esquí, <a href="/projects">coses vàries d'ordinadors</a>, i viatjant.
-        Com que res d'això és barat, em sento orgullós de dir que soc un enginyer molt motivat.
-        </p>
-    </div>
-    <div id="right" style="flex:10">
-        <center><img class="pl-5" src="albert.png" /></center><br/>
-    </div>
+    <p>
+    <TimedHello lang=1 />
+    Sóc Alberto, un exalumne de Berkeley i enginyer de programari que treballa en infraestructura d'emmagatzematge a Meta.
+    Si faig un error a la feina, ho sabràs. Pots veure el meu currículum complet
+    <a href="/resume.pdf">aquí</a>.
+    </p>
+
+    <p>
+    Fora de l'escola i la feina, m'agrada cotxes, <a href="/gallery">fotografia</a>, esquí, <a href="/projects">coses vàries d'ordinadors</a>, i viatjant.
+    Com que res d'això és barat, em sento orgullós de dir que soc un enginyer molt motivat.
+    </p>
 </div>
 
 També pots llegir els meus [pensaments](/blog) ximples i què estic fent [ara](/now).
