@@ -2,31 +2,7 @@
 *as of 15 apr 2026*
 
 ## career
-Not fired yet. LLMs are the smartest idiots to ever curse this planet. Unfortunately, I've been increasingly
-forced to work with them. To be not mean, there definitely have been a lot of improvements in QoL for refactors,
-which do play an outsized role for me as a junior engineer. Semantic checks for reviews are now quite good as
-well, so a lot of issues that I'd make as an inexperienced engineer can be caught.
-
-But, there are also some clear negatives and fears.
-- AI is notably pretty awful at dealing with anything requiring context on a pretty large codebase.
-There are some things that are quite easy with a human workflow that AI will unnecessarily struggle on.
-Despite what that guy on the street told me, every model still hallucinates like mad.
-- It's pretty easy to just get an LLM to believe whatever you tell it, so operator skill does also
-matter when pushing agents along.
-- Right now we're pushing through lots of code. However, as someone who's learning, just using AI might
-miss some of the nuances of the existing codebase. I'll need to figure those out and ensure that any of
-the Invisible Rules (TM) aren't being broken whenever I vibecode something.
-
-Not a god-tier prompter, but it seems that answering these will probably be differentiating skills
-for engineers, which still requires me "get good" the old-fashioned way. But with more pressure to
-deliver more stuff and more (very dangerous) tools at my disposal, I'll have to choose a very
-deliberate line.
-
-Honestly it's a good thing that LLMs are far from perfect, and realizing that is similarly good.
-Would not want to be relying on Claude to Make No Mistakes and taking its word for everything, as
-anything that can be so easily automated is not somewhere I should try to spend all my time on.
-Whether or not you see me at a Discount Tire in two years depends on if I capture the right
-skillset from the old frontier and am a wise adopter of the new frontier.
+I've consolidated my thoughts on LLMs into [a blog](/blog/ludd).
 
 ## personal life
 Going through an adjustment right now after moving from the Bay, where I've lived my whole life, to
@@ -56,6 +32,15 @@ top speed rankings, and better confidence on bumpier and less polished black dia
 bucket list item last week at Mount Baker, such as skiing (functionally sliding on ice) down a
 double-black and doing a bunch of piste runs in a very outrageous cosplay. Maybe I should've had better
 carving before I tried that, though. It's aura loss if you don't do it well.
+
+## pending actions
+There are a few things that are pending. If, in a few months, I don't get onto them, you can
+[point and laugh at me and suggest I take Adderall](https://brookemao.ca).
+- Replace the suspension, tires, and fix the paint job of my Z3.
+- Small, semi-local road/backpacking trip
+- Do some long-haul endurance biking to make up for the lack of skiing and work out other areas.
+- Get a gym routine and a gym community to keep me coming.
+- Ski all months. This could mean (1) Timberline Lodge spam (2) Go to the Southern Hemisphere
 
 ## music rotation
 This rotation is an album.
