@@ -4,7 +4,18 @@
 
 # gallery
 
-remote images are up! now i probably need a better API to access the album.
+remote images are up! now i probably need a better API to access each album.
+
+## 19 apr 2026: [the oregon special](https://hachiware.albie.cat/s/oregon)
+<Carousel --aspect=3/2 images={[
+    "https://hachiware.albie.cat/api/assets/c32ef4f0-bc7e-4861-a5d1-3684f12ce1b8/thumbnail?slug=oregon&size=preview&c=2PcZHYBpd4Z%2Fd3d4eGiHiIhw6AuE",
+    "https://hachiware.albie.cat/api/assets/6b5d236c-25a3-4f20-b0d2-4adca06e4ca0/thumbnail?slug=oregon&size=preview&c=3PcNDYA0hXaPZUaYaed1ZrqQsgtq",
+    "https://hachiware.albie.cat/api/assets/fac62a09-4fb3-4ce9-b885-71275f6cf880/thumbnail?slug=oregon&size=preview&c=WegdDYB3h3h%2Fh3iKiHd4hneAbbb4",
+    "https://hachiware.albie.cat/api/assets/f39e1d42-b726-430e-b23f-a94f01d7ead6/thumbnail?slug=oregon&size=preview&c=HugZDYBHdnh%2Fdnd5iXeIieKg6fHW",
+    "https://hachiware.albie.cat/api/assets/5d9eab11-f4e7-4753-9bd7-869ceedef65f/thumbnail?slug=oregon&size=preview&c=GOgJFYIFhJWthHd3aWeYddBlGwy4",
+    "https://hachiware.albie.cat/api/assets/b1aae122-e3c2-4e16-90e4-2f141fe8791d/thumbnail?slug=oregon&size=preview&c=4dcVHYR4d3iPeIiDeHiHeXmAhQdo",
+    "https://hachiware.albie.cat/api/assets/74e78c04-26cf-420c-b109-00b01cd437c6/thumbnail?slug=oregon&size=preview&c=yigKHYSOaGZ%2FhIlmdLlna7%2BZ8pso"
+]}/>
 
 ## 15 mar 2026: [centralia WA local finds](https://hachiware.albie.cat/s/olympia)
 <Carousel --aspect=2/3 images={[
