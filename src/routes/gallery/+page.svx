@@ -6,6 +6,36 @@
 
 remote images are up! now i probably need a better API to access each album.
 
+## 1 jun 2026: [the oregon special 2](https://hachiware.albie.cat/s/395)
+<Carousel --aspect=3/2 images={[
+  "https://hachiware.albie.cat/api/assets/43e87cfe-5b7e-454b-afc6-a237a24d26c4/thumbnail?slug=395&size=preview&c=1%2FcFHYLqRXRvSnWZeYmJdnWAczAk",
+  "https://hachiware.albie.cat/api/assets/4d5acdec-7ac1-4112-877a-161da275910e/thumbnail?slug=395&size=preview&c=HAgeFQKJiI93h3dXeIaIh75j8BsW",
+  "https://hachiware.albie.cat/api/assets/5a962ed5-4645-4283-ad9e-c09af142862c/thumbnail?slug=395&size=preview&c=FSkaNYiId4iPeId5eHiHiHmPmveI",
+  "https://hachiware.albie.cat/api/assets/79f20f1d-e992-495a-a7a2-8d9232bd9b7f/thumbnail?slug=395&size=preview&c=GOcJNYZMiZdPeHh1akiYepVgZwlm",
+  "https://hachiware.albie.cat/api/assets/96b0a971-1d45-4b90-9fdc-a5f8f43a54bd/thumbnail?slug=395&size=preview&c=FdcJNYh5iYdWZoiQjHdobniAhwd4",
+  "https://hachiware.albie.cat/api/assets/bb30024b-ac2e-4c16-b7bb-d95748c62b7f/thumbnail?slug=395&size=preview&c=n%2BcNHYJihIePg4adaUiXl3yQtgiJ",
+  "https://hachiware.albie.cat/api/assets/ad60f367-4f8b-4c66-85d5-4467cd24ff83/thumbnail?slug=395&size=preview&c=3vcNDYA5d2ZXhoaviHdsc7ahgApI",
+  "https://hachiware.albie.cat/api/assets/06f7462c-1abf-4449-a7d1-811820e5c2f8/thumbnail?slug=395&size=preview&c=oMcNZYh5eIePiHeXiFeIhomAmAhp",
+  "https://hachiware.albie.cat/api/assets/f65faee5-c217-4106-a486-106184af3aca/thumbnail?slug=395&size=preview&c=nvcJJYSBeIiPlXe4piiFZWlwhQZn",
+  "https://hachiware.albie.cat/api/assets/8e8c34ee-7aff-4da5-ba18-46594f322de0/thumbnail?slug=395&size=preview&c=IdcJNYZ5h4ifh3hTiFeGmJZwZAhH",
+  "https://hachiware.albie.cat/api/assets/02e9ca41-c76f-4e8a-9bd7-5d70a5125cf2/thumbnail?slug=395&size=preview&c=4fcJHYKBiYlPhoaKlVhnfX%2FE9Rac",
+  "https://hachiware.albie.cat/api/assets/94e4172c-5a56-471d-be5d-ab27dd4c5489/thumbnail?slug=395&size=preview&c=4ucJLYKAlndPdYiadneKtouA9gkn",
+  "https://hachiware.albie.cat/api/assets/955b35bf-7813-48cb-95f4-6e06e400e2eb/thumbnail?slug=395&size=preview&c=4OcRPYSYh3ePh4d5d0eHdnmAhgdI",
+  "https://hachiware.albie.cat/api/assets/19e01a8f-3637-4d65-a70d-bb00b3bcb107/thumbnail?slug=395&size=preview&c=mRgODYKLm2avl3l4doiXl3AjhweG",
+  "https://hachiware.albie.cat/api/assets/87272c70-1a84-4def-bddc-b99f4fdccc66/thumbnail?slug=395&size=preview&c=3dYVJYSFeId%2Fd3eHd1iId5VgVQlm",
+  "https://hachiware.albie.cat/api/assets/393e0698-3ad2-4ea2-879a-d52478dc9200/thumbnail?slug=395&size=preview&c=WNcNLYZ3d3h%2Fh4iLiHd3hneAdQdH",
+  "https://hachiware.albie.cat/api/assets/3f5b6945-dd89-4278-b015-5deb96709934/thumbnail?slug=395&size=preview&c=4hgaFYKHd4d%2Fd3eGd3h4eIR%2FQLgI",
+  "https://hachiware.albie.cat/api/assets/a70d2db4-270c-44b3-aba8-e71f54c10311/thumbnail?slug=395&size=preview&c=HPgVHYaHiHh%2Fd4eJd2d3dodwewiX",
+  "https://hachiware.albie.cat/api/assets/790cb6fa-cf5d-454d-8d47-1aab9da0683e/thumbnail?slug=395&size=preview&c=lxgeHYZ5d4ePh3d4iGiIh5iPd%2Fl3",
+  "https://hachiware.albie.cat/api/assets/f647599c-0add-4feb-b915-e5040b048774/thumbnail?slug=395&size=preview&c=YtcRNYR4eIh%2FeIeHeDeHi3eAiQem",
+  "https://hachiware.albie.cat/api/assets/742e18d1-4d08-4ff3-a680-7954833a5cb6/thumbnail?slug=395&size=preview&c=iygGDYIFBlaJlKREgzm3gilagKAU",
+  "https://hachiware.albie.cat/api/assets/94043db4-69cf-4c66-bf78-3a7da250380e/thumbnail?slug=395&size=preview&c=X%2BcNDYJwiHhUiId2h4eahJ%2FaUzkH",
+  "https://hachiware.albie.cat/api/assets/48bf874b-e314-4990-a06e-ec016abae93e/thumbnail?slug=395&size=preview&c=XOcRLYKKd4ePiHh5d4d3doeAdwh5",
+  "https://hachiware.albie.cat/api/assets/230f8d16-9f3d-4c03-a1ef-c9e9743c39cf/thumbnail?slug=395&size=preview&c=INcRFYJ1iHhviHerd5h4daKQClr5",
+  "https://hachiware.albie.cat/api/assets/a2ae0a70-7933-4cb7-8e93-647f83e0b27b/thumbnail?slug=395&size=preview&c=2%2BcZFYJqh3iPd3d6iIiHZ4RTcBT2",
+  "https://hachiware.albie.cat/api/assets/44f07d0b-e23e-4df4-aa4c-57a651991f50/thumbnail?slug=395&size=preview&c=YecZHYKGiIePh4iad1h4eJmQizf6"
+]}/>
+
 ## 19 apr 2026: [the oregon special](https://hachiware.albie.cat/s/oregon)
 <Carousel --aspect=3/2 images={[
     "https://hachiware.albie.cat/api/assets/c32ef4f0-bc7e-4861-a5d1-3684f12ce1b8/thumbnail?slug=oregon&size=preview&c=2PcZHYBpd4Z%2Fd3d4eGiHiIhw6AuE",
