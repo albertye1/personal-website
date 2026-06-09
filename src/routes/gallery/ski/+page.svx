@@ -1,0 +1,91 @@
+<script>
+  import YouTube from "$lib/YouTube.svelte";
+</script>
+
+# skiing shenanigans
+I'm no good at skiing. However, in order to "document improvement" (justify the
+large amount spent on action cameras) and "watch my form" (it sucks and I'm too
+scared to descend a mogul run normally) I will probably put videos on here to
+make myself feel like I'm actually doing something with my life.
+
+## 1 jun 2026: timberline lodge
+<YouTube src="https://www.youtube-nocookie.com/embed/sWlVSZP3ySs" />
+
+overall a pretty good day of summer skiing. just stopped by on the way up to Seattle
+and got some good laps in. will probably be back if nothing else is open
+
+## 23-24 may 2026: mammoth mountain
+i lowk forgot my camera at home and did some chud stuff to still get footage of this trip.
+<YouTube src="https://www.youtube-nocookie.com/embed/c1oL1bNI2pI" />
+<YouTube src="https://www.youtube-nocookie.com/embed/naMqq6-VUIE" />
+
+## 2-3 may 2026: whistler blackcomb
+second time on blackcomb, first time recording it.
+
+### highlights and greatest hits
+did my first few double blacks of the season.
+it's very overdue. i had done like maybe one? successful black run before this season though,
+so i think it's pretty good progress in and of itself. as for form, i will have to judge each run
+separately.
+<YouTube src="https://www.youtube-nocookie.com/embed/BsMvqnqg21I" />
+<YouTube src="https://www.youtube-nocookie.com/embed/MFJN22Pbueg" />
+
+- obviously, more upper body focus on the fall line is probably a good idea
+
+### some other cool runs
+<YouTube src="https://www.youtube-nocookie.com/embed/XE15aVaKQdo" />
+
+- please don't ski in cosplay
+- otherwise, i think i did decently on some of the turns.
+
+<YouTube src="https://www.youtube-nocookie.com/embed/fFd-SIGUKyw" />
+
+- the song gave me an earworm
+
+<YouTube src="https://www.youtube-nocookie.com/embed/wr6zJEDcmV0" />
+
+- something
+
+## 25 apr 2026: crystal mountain green valley laps
+only green valley was open this time. because i was in California for work without skis i missed the
+famed and legendary april pow days. whoops.
+
+<YouTube src="https://www.youtube-nocookie.com/embed/d1jH5aAVgoI" />
+
+## 9 apr 2026: mt baker
+lol i wiped out after one run and took down my recording setup.
+thankfully i had another helmet, so the ski day continued. but i did my stuff off camera
+
+<YouTube src="https://www.youtube.com/embed/re8uSJ_IM4s" />
+
+## 4 apr 2026: crystal mountain
+took ski lessons then tried what i'd learned. i think the biggest takeaway was to
+- keep toes pointed up in the boot to avoid backseat position
+- always keep chest pointed to fall line.
+- try to be bouncy wih moguls and bend legs upwards
+unfortunately that doesn't mean i actually know how to put any of these things into practice.
+
+<YouTube src="https://www.youtube.com/embed/Fm4o-1klZx0" />
+
+- pretty much every time i ski this run the coverage is worse and the moguls are larger. quite sad.
+- i kind of failed at turning myself the other way at the end of a turn, so i end up requiring a bit of a ski-out after every turn.
+- that doesn't always exist in practice.
+
+<YouTube src="https://www.youtube-nocookie.com/embed/G5PnBB9k47s" />
+
+- well small moguls are at least low cortisol now
+- i had also done a few laps at alpental the day before to see if i was capable of integrating pole plants into my flow
+- i did quite well, and that definitely helped me get a better footing here
+
+## 23-25 apr 2026: bc interior
+first ski trip outside of the seattle area this season! it was really a lot of enjoyment despite not a lot of skill.
+
+<YouTube src="https://www.youtube.com/embed/YOUvJ82bZyc" />
+
+- didn't know how to use poles
+- this run is probably a lot better for me now than it was when i recorded this
+
+<YouTube src="https://www.youtube.com/embed/sbF7QaN_es4" />
+
+- did a couple taps with the pole then dropped it????
+- conditions were absolutely not great but it should've been a lot easier to slide if i was actually using my poles
