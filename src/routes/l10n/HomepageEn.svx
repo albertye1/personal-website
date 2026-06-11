@@ -17,7 +17,7 @@ My <a href="/resume.pdf">resume</a> should have more relevant info.
 </p>
 
 I oscillate between my hobbies of
-cars, [photography](/gallery), skiing, <a href="/projects">miscellaneous computer stuff</a>, and traveling.
+cars, [photography](/gallery), [skiing](/gallery/ski), <a href="/projects">miscellaneous computer stuff</a>, and traveling.
 As none of these are cheap, I'm proud to say I'm a highly motivated engineer.
 
 I'm a big fan of speaking before I think. To avoid further

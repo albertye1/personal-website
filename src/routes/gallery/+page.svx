@@ -4,7 +4,8 @@
 
 # gallery
 
-remote images are up! now i probably need a better API to access each album.
+new page to [document just how awful i am at skiing](/gallery/ski) here.
+i figured it was worth it if i keep being this addicted next winter.
 
 ## 1 jun 2026: [the oregon special 2](https://hachiware.albie.cat/s/395)
 <Carousel --aspect=3/2 images={[
