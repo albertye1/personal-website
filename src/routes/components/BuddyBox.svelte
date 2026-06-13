@@ -14,6 +14,7 @@
 	<Badge href="brookemao.ca" alt="nix" src="/buttons/brooke.png" />
 	<Badge href="bencuan.me" alt="bencuan" src="/buttons/bencuan.gif" />
 	<Badge href="pineco.net" alt="north carolina" src="/buttons/pineco.png" />
+	<Badge href="alyx.sh" alt="my evil twin??" src="https://alyx.sh/images/88x31/alyxv2.png" />
 	<Badge href="ocf.io" alt="ocf" src="/buttons/ocf.png" />
 	<Badge href="devhack.net" alt="devhack" src="/buttons/devhack.gif" />
 	<Badge href="svelte.dev" alt="svelte" src="/buttons/svelte.png" />

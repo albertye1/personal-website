@@ -1,5 +1,5 @@
 ---
-title: 'self-hosting ep. 4: immich public proxy'
+title: 'self-hosting ep. 5: immich public proxy'
 date: '8 jun 2026'
 ---
 
