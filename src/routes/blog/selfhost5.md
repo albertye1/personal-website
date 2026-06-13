@@ -1,6 +1,6 @@
 ---
 title: 'self-hosting ep. 5: immich public proxy'
-date: '8 jun 2026'
+date: '13 jun 2026'
 ---
 
 I've decided that I should probably not have `/api/assets` leaked in every single image posted on this website. Fortunately it's OK for now, 
