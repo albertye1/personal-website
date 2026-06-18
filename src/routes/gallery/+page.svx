@@ -46,6 +46,15 @@ i figured it was worth it if i keep being this addicted next winter.
   "https://img.aly.sh/share/photo/fPZsHkLUWhd__LJyFVmV8EdMa14sw5Kuo7DKXUyXtaK5l648xGvuCtOyfXxPOjAt4FY/68ae3d4a-6c73-4ef6-ae89-079c6391e548/"
 ]}/>
 
+## 21-23 may 2026: [miscellaneous landscape photos](https://img.aly.sh/s/misc2)
+<Carousel --aspect=3/2 images={[
+  "https://img.aly.sh/share/photo/yIZhd53KEUONHCYV_WkhNvSsxlPnUB96dJ4qMOKv51O5v6WoOPFQHYk_2y6G4Jqvbyc/41661ade-c1e9-4f4d-8354-919016934028/",
+  "https://img.aly.sh/share/photo/yIZhd53KEUONHCYV_WkhNvSsxlPnUB96dJ4qMOKv51O5v6WoOPFQHYk_2y6G4Jqvbyc/a2f0e2bf-6d8e-4eb5-b0aa-f7d6b4e8a6e0/",
+  "https://img.aly.sh/share/photo/yIZhd53KEUONHCYV_WkhNvSsxlPnUB96dJ4qMOKv51O5v6WoOPFQHYk_2y6G4Jqvbyc/5ac349a1-3f51-4894-8b67-e7b24f6474b3/",
+  "https://img.aly.sh/share/photo/yIZhd53KEUONHCYV_WkhNvSsxlPnUB96dJ4qMOKv51O5v6WoOPFQHYk_2y6G4Jqvbyc/a8f1842d-46fd-4a03-a7ff-1adeabdeae88/",
+  "https://img.aly.sh/share/photo/yIZhd53KEUONHCYV_WkhNvSsxlPnUB96dJ4qMOKv51O5v6WoOPFQHYk_2y6G4Jqvbyc/de726d4d-553a-4f82-a53b-ef858b3b5c2b/"
+]}/>
+
 ## 19 apr 2026: [the oregon special](https://img.aly.sh/s/oregon)
 <Carousel --aspect=3/2 images={[
     "https://img.aly.sh/share/photo/Ke505NTF0r_lMObrFVuQtHFIDB9NDATpMUkHMBazuO9FopjCaFmyrJ5NR782PA9GCzg/c32ef4f0-bc7e-4861-a5d1-3684f12ce1b8/",
