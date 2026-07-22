@@ -7,6 +7,24 @@
 new page to [document just how awful i am at skiing](/gallery/ski) here.
 i figured it was worth it if i keep being this addicted next winter.
 
+## 18 jul 2026: [north cascades](https://img.aly.sh/s/nc)
+<Carousel --aspect=3/2 images={[
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/255c5304-cc6c-4c8a-9114-0344fbe17832/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/6d43eb18-d75d-48fd-828b-34d79e94e8f8/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/7a75a599-7504-4b22-b611-c950f62d94f0/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/a9e28485-9338-4070-ad69-c88627b44cf2/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/afb15eac-aed8-4d99-bc02-72540bf6bdc4/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/3e1fdd29-5875-4301-a2a4-3931d0f37150/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/94aa8083-31d8-460b-8f91-bde8d4f84aa1/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/5cd9744a-56e5-44a6-926e-c13bd9e3179a/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/418262e5-651c-439b-9f2b-5af7796d716e/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/18f970a6-2b96-48bd-bec5-a7f42135d018/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/9f7c8779-9dc4-4133-9432-0a5ad991b924/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/7a42eded-7d3c-4d2e-9e19-fe88d2b8afd8/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/276631b9-9ba9-4db8-afd0-32c386f964d4/",
+  "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/8026564c-49b5-40b0-9043-21c8a7cbb621/"
+]}/>
+
 ## 1 jun 2026: [the oregon special 2](https://img.aly.sh/s/395)
 <Carousel --aspect=3/2 images={[
   "https://img.aly.sh/share/photo/MxhzRm_-QccW1cVmplNKvFZFNg-jBsNWIinc5Obv9xX4nn6xstGrYOl8zrUPmrEMihg/43e87cfe-5b7e-454b-afc6-a237a24d26c4/",
