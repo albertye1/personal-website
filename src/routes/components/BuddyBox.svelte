@@ -15,6 +15,11 @@
 	<Badge href="bencuan.me" alt="bencuan" src="/buttons/bencuan.gif" />
 	<Badge href="pineco.net" alt="north carolina" src="/buttons/pineco.png" />
 	<Badge href="alyx.sh" alt="my evil twin??" src="https://alyx.sh/images/88x31/alyxv2.png" />
+	<Badge
+		href="mannan.dev"
+		alt="mannan"
+		src="https://github.com/mannanshukla/mannanshukla.github.io/blob/master/88x31.png?raw=true"
+	/>
 	<Badge href="ocf.io" alt="ocf" src="/buttons/ocf.png" />
 	<Badge href="devhack.net" alt="devhack" src="/buttons/devhack.gif" />
 	<Badge href="svelte.dev" alt="svelte" src="/buttons/svelte.png" />
