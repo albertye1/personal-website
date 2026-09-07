@@ -1,37 +1,17 @@
 # what i'm up to right now
-*as of 15 apr 2026*
+*as of 16 jul 2026*
 
 ## career
-I've consolidated my thoughts on LLMs into [a blog](/blog/ludd).
+It's a year in in like 12 days? And yet despite that, the landscape is changing in ways that likely do not benefit
+the junior engineer. I believe I'd chosen software engineering because the job required active problem-solving,
+so any time of the day I spend just watching Claude do increasingly complex tasks without any intervention
+from me is a bit mind-numbing and soul-crushing. But, there's still a lot that LLMs can't do, and I should try
+to reach that level as soon as possible. So the goal now is to hopefully get promoted and take on bigger projects.
+
+Although for promotion, it's a little bit idealistic to say that career advancement is the *only* reason
+I'm trying.
 
 ## personal life
-Going through an adjustment right now after moving from the Bay, where I've lived my whole life, to
-Seattle, where I never imagined living right up until I was told I had to go there. The Washington State
-car community has been a very mixed bag with wins relatively uncommon. I've had a bit more luck finding
-individual cool people and branching out into other hobbies like photography, as many of the car-meet
-dwellers aren't really my type of person.
-
-Doesn't mean I'll stop trying to build my car or take it onto the track. That effort
-is encouraged by local resources, such as a large contingent of E36 enthusiasts and a
-local shop (22RPD) that supports an E36 K-swap kit and tunes European cars. From what I hear
-around the grapevine, the shop is reputable! Hopefully none of the parts rust out before I get to it.
-
-I'll have to hash out the garage space issue now, too. My garage is good for small repairs, such as
-wheels, suspension, etc. But it's too small to handle a whole engine swap. That'll probably need either
-a very generous friend or professional support from 22RPD. Neither's a bad option if I repay in kind
-(easier for a business).
-
-But overall, as of now, I've got people in the Bay and I've got people in Seattle. It's starting to feel less
-like I've got to cope while I'm up here and more that it's a different subset of cool people.
-Having a small contingent and decent weather does make this place feel less suffocating.
-Hopefully this stays the same after some soon-pending upheavals.
-
-I've started picking up skiing more and more. The result of this is a greater knowledge of what good
-form should look like, a mild improvement in practiced form, no longer being last place in the
-top speed rankings, and better confidence on bumpier and less polished black diamonds. I did every other
-bucket list item last week at Mount Baker, such as skiing (functionally sliding on ice) down a
-double-black and doing a bunch of piste runs in a very outrageous cosplay. Maybe I should've had better
-carving before I tried that, though. It's aura loss if you don't do it well.
 
 ## pending actions
 There are a few things that are pending. If, in a few months, I don't get onto them, you can

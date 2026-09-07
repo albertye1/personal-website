@@ -7,6 +7,16 @@
 new page to [document just how awful i am at skiing](/gallery/ski) here.
 i figured it was worth it if i keep being this addicted next winter.
 
+## 24-27 aug 2026: [first time in chicago](https://img.aly.sh/s/chicago2026)
+<Carousel --aspect=9/16 images={[
+  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/c9ba5046-78a5-43d4-836c-9fb37b0b12f3/",
+  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/e0498765-8f3d-4aad-80ef-d1c7ceba9f06/",
+  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/2c3a44d5-e018-42dd-8e66-1392745c2ab6/",
+  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/72ff66ab-ebd3-428f-bee1-b11dd7e7ee30/",
+  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/4e5a8992-ee45-4e8a-b475-704f2265ca9f/",
+  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/0f756c8f-8b31-4f30-ab9f-d43d4c3cf5a1/"
+]}/>
+
 ## 18 jul 2026: [north cascades](https://img.aly.sh/s/nc)
 <Carousel --aspect=3/2 images={[
   "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/255c5304-cc6c-4c8a-9114-0344fbe17832/",
