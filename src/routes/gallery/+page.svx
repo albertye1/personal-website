@@ -7,14 +7,14 @@
 new page to [document just how awful i am at skiing](/gallery/ski) here.
 i figured it was worth it if i keep being this addicted next winter.
 
-## 24-27 aug 2026: [first time in chicago](https://img.aly.sh/s/chicago2026)
-<Carousel --aspect=9/16 images={[
-  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/c9ba5046-78a5-43d4-836c-9fb37b0b12f3/",
-  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/e0498765-8f3d-4aad-80ef-d1c7ceba9f06/",
-  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/2c3a44d5-e018-42dd-8e66-1392745c2ab6/",
-  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/72ff66ab-ebd3-428f-bee1-b11dd7e7ee30/",
-  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/4e5a8992-ee45-4e8a-b475-704f2265ca9f/",
-  "https://img.aly.sh/share/photo/U2KI9JgT0w9VFQdz2VjkjlaWeKkauxh_Vz63tMW-K3J4bgualKnrxfN7VAKRMY-ywBM/0f756c8f-8b31-4f30-ab9f-d43d4c3cf5a1/"
+## 27 aug 2026: [ts pentax i bought off facebook marketplace in chicago](https://img.aly.sh/s/chionfilm)
+<Carousel --aspect=4/3 images={[
+  "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/5d053c1f-ef5d-4935-93f9-980aa8edf796/",
+  "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/37adb3a7-be7b-4a5b-ace6-3f165e56b63c/",
+  "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/0a2656b6-6476-45c2-b4cf-4c1679fd0d07/",
+  "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/af38fb8b-11d1-4276-8157-80d8dc88378c/",
+  "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/9c5798de-61f2-432e-ab83-2ac2b1f3546d/",
+  "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/4569ba8a-23e5-4e74-b657-80e22295ead3/"
 ]}/>
 
 ## 18 jul 2026: [north cascades](https://img.aly.sh/s/nc)
