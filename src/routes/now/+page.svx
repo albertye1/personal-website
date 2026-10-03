@@ -1,29 +1,70 @@
 # what i'm up to right now
-*as of 16 jul 2026*
+*as of 2 oct 2026*
 
 ## career
-It's a year in in like 12 days? And yet despite that, the landscape is changing in ways that likely do not benefit
-the junior engineer. I believe I'd chosen software engineering because the job required active problem-solving,
-so any time of the day I spend just watching Claude do increasingly complex tasks without any intervention
-from me is a bit mind-numbing and soul-crushing. But, there's still a lot that LLMs can't do, and I should try
-to reach that level as soon as possible. So the goal now is to hopefully get promoted and take on bigger projects.
+Somewhat past the 1-year point without being fired somehow. Claude has sucked whatever fun was in writing code, but
+fortunately this does mean I have more time and more urgency to become competent at system design. It's also a good
+time, to try out spec- and test-driven development to see if adding more constraints to the random word
+generator-cum-web crawler that everyone seems enamored with right now will make it better.
 
-Although for promotion, it's a little bit idealistic to say that career advancement is the *only* reason
-I'm trying.
+I did receive a promotion, but it seems that my increase in earnings cannot exactly outpace my horrifically expensive
+hobbies unless I put an end to this madness.
 
 ## personal life
+Things have generally been going OK. One of the things I'm hoping to do soon is getting a dumb phone to reduce
+my dependence on the harmful social media apps I'm overpaid to support. I think my screen time limiters are not
+doing enough to keep me focused at work, so I'm trying to see if getting a cheap Nokia will make me work
+any more efficiently.
 
-## pending actions
-There are a few things that are pending. If, in a few months, I don't get onto them, you can
-[point and laugh at me and suggest I take Adderall](https://brookemao.ca).
+### car bullshit
+I've updated my 2000 Land Rover Discovery to a 2004 Land Rover Discovery due to it being
+available at a "price too low for me to resist". However, out of sheer laziness, I decided
+that I did not actually want to do the rehabilitation work to actually fix the fucking thing,
+so I dropped just over 3 times the cost of the vehicle to get it partly reconditioned.
+
+- Downpipe leak. Downstream effect of issues, but I didn't want to sound like I was firing a
+  submachine gun every time I started the car. Unfortunately, it's held in by a couple studs that
+  are keen to break, and thus I decided to take it to a shop.
+- Horrible steering. Previous owner didn't even bother with the multiple cheaper solutions (tie rod ends)
+  and went straight to the radius arms as the first solution. It was the tie rod ends. But while they were in
+  there, the ball joints were also gone so I had the shop do everything.
+- Low power. The ignition coil was loose and hood interference meant that the two rear-most spark plug
+  wires were being rubbed down until they would short. Unrelated, there was also a horrific vacuum leak due to a
+  dog-eared valley pan gasket. Both of these also caused the cats to clog, causing the first & most pressing problem.
+  I should have probably been able to DIY this shit but It was already in their custody at this time so I was inclined
+  to just have them solve the problem.
+
+There are a couple of issues that I didn't have them look at yet, but if I can't get to them by 19 October I will
+go and have the shop deal with them because I have to go wheeling before the snow comes.
+
+- 3 amigos (ABS, traction control, hill descent). Issue didn't really get resolved while in their care, but it seems that
+  there are a couple sensors that aren't working.
+- Rear diff seal leak. I have been meaning to fix this since I bought the car but I just haven't really had the time. The
+  shop offered to fix this but I thought it'd be a little less involved so I thought I'd be able to do it myself.
+  Might also need a pad slap.
+
+### formerly pending actions
+Not awful, but not great.
 - Replace the suspension, tires, and fix the paint job of my Z3.
+  - Done!!!
 - Small, semi-local road/backpacking trip
+  - I went on multiple local hiking and road trips. Did end up visiting Spokane / Northern Idaho.
 - Do some long-haul endurance biking to make up for the lack of skiing and work out other areas.
+  - I forgot to bike but I *did* pick up climbing thanks to a friend pestering me.
 - Get a gym routine and a gym community to keep me coming.
+  - Lmao.
 - Ski all months. This could mean (1) Timberline Lodge spam (2) Go to the Southern Hemisphere
+  - Lmao.
+
+### pending actions
+- Go wheeling in the Land Rover. This has actually been pending for months but unfortunately my
+  truck has just not been in the condition to do it.
+- Have a consistent weekly climbing schedule. Monday nights have already been allocated.
+- Stop driving to work. Parking costs money, tolls cost money, gas costs money, being a car-dependent chud costs soul.
+- Get a wardrobe that makes me ["look less than I'm from the Bay"](https://umbresp.cat/)
+  - This either means I cover myself in polyester or become a lot of dollars poorer. Hopefully the latter as the former is kinda chud.
 
 ## music rotation
-This rotation is an album.
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5B4zpYhcIOJXQO7YWBh0LE?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7KPiZ5T84rDSmwl7X6JZLI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>
