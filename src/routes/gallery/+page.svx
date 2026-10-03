@@ -17,6 +17,17 @@ i figured it was worth it if i keep being this addicted next winter.
   "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/4569ba8a-23e5-4e74-b657-80e22295ead3/"
 ]}/>
 
+## 22 aug 2026: [mt ellinor trail](https://img.aly.sh/s/tooktheell)
+<Carousel --aspect=4/3 images={[
+  "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/910a1d86-8ff1-408d-a96e-8deaef1eba55/",
+  "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/f7d412a7-15bd-4204-8cb4-e0637cc3b454/",
+  "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/31723c0b-f49a-4c6b-a11a-f2aa83c6ac71/",
+  "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/06343852-30be-4cb0-bf0b-20028feb9c8a/",
+  "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/c7335b8a-bc00-49e1-ae7b-b3eca04ba1d7/",
+  "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/5fbd8223-5bce-40a2-8b8f-2d018ae3c602/",
+  "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/98f5f054-d759-422f-8951-f01fa609522b/"
+]}/>
+
 ## 18 jul 2026: [north cascades](https://img.aly.sh/s/nc)
 <Carousel --aspect=3/2 images={[
   "https://img.aly.sh/share/photo/DRddO4NeoowecIgsj_Gsqod3TXT4zuq1aKRgjTRNXsoGJzyDIzY8jJ8uGZaVJT1zDBU/255c5304-cc6c-4c8a-9114-0344fbe17832/",
