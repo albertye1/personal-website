@@ -18,7 +18,7 @@ i figured it was worth it if i keep being this addicted next winter.
 ]}/>
 
 ## 22 aug 2026: [mt ellinor trail](https://img.aly.sh/s/tooktheell)
-<Carousel --aspect=4/3 images={[
+<Carousel --aspect=16/10 images={[
   "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/910a1d86-8ff1-408d-a96e-8deaef1eba55/",
   "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/f7d412a7-15bd-4204-8cb4-e0637cc3b454/",
   "https://img.aly.sh/share/photo/AgvotWJEylBHNLEYqr-Fe9pTOmAzzOXsJBTQQLC7uC_YbBJlKu2XVC3eVaG22a807Yg/31723c0b-f49a-4c6b-a11a-f2aa83c6ac71/",
