@@ -1,5 +1,5 @@
 # what i'm up to right now
-*as of 2 oct 2026*
+*as of 12 oct 2026*
 
 ## career
 Somewhat past the 1-year point without being fired somehow. Claude has sucked whatever fun was in writing code, but
@@ -16,55 +16,50 @@ my dependence on the harmful social media apps I'm overpaid to support. I think 
 doing enough to keep me focused at work, so I'm trying to see if getting a cheap Nokia will make me work
 any more efficiently.
 
+I've also gotten a cat. Look at him.
+<img class="p1-5" src="sylvain.jpg" style="max-width: 50%" />
+
 ### car bullshit
-I've updated my 2000 Land Rover Discovery to a 2004 Land Rover Discovery due to it being
-available at a "price too low for me to resist". However, out of sheer laziness, I decided
-that I did not actually want to do the rehabilitation work to actually fix the fucking thing,
-so I dropped just over 3 times the cost of the vehicle to get it partly reconditioned.
+Added to a [blog post](../blog/bober2).
 
-- Downpipe leak. Downstream effect of issues, but I didn't want to sound like I was firing a
-  submachine gun every time I started the car. Unfortunately, it's held in by a couple studs that
-  are keen to break, and thus I decided to take it to a shop.
-- Horrible steering. Previous owner didn't even bother with the multiple cheaper solutions (tie rod ends)
-  and went straight to the radius arms as the first solution. It was the tie rod ends. But while they were in
-  there, the ball joints were also gone so I had the shop do everything.
-- Low power. The ignition coil was loose and hood interference meant that the two rear-most spark plug
-  wires were being rubbed down until they would short. Unrelated, there was also a horrific vacuum leak due to a
-  dog-eared valley pan gasket. Both of these also caused the cats to clog, causing the first & most pressing problem.
-  I should have probably been able to DIY this shit but It was already in their custody at this time so I was inclined
-  to just have them solve the problem.
-
-There are a couple of issues that I didn't have them look at yet, but if I can't get to them by 19 October I will
-go and have the shop deal with them because I have to go wheeling before the snow comes.
-
-- 3 amigos (ABS, traction control, hill descent). Issue didn't really get resolved while in their care, but it seems that
-  there are a couple sensors that aren't working.
-- Rear diff seal leak. I have been meaning to fix this since I bought the car but I just haven't really had the time. The
-  shop offered to fix this but I thought it'd be a little less involved so I thought I'd be able to do it myself.
-  Might also need a pad slap.
+Also went on a little road trip to Spokane/Coeur d'Alene to get a Volvo 240 that may or may not be for a friend (uncertain at this point).
+What I do with my garage is a little unknown right now, I think some shuffles may be in order.
 
 ### formerly pending actions
 Not awful, but not great.
-- Replace the suspension, tires, and fix the paint job of my Z3.
-  - Done!!!
-- Small, semi-local road/backpacking trip
-  - I went on multiple local hiking and road trips. Did end up visiting Spokane / Northern Idaho.
-- Do some long-haul endurance biking to make up for the lack of skiing and work out other areas.
-  - I forgot to bike but I *did* pick up climbing thanks to a friend pestering me.
-- Get a gym routine and a gym community to keep me coming.
-  - Lmao.
-- Ski all months. This could mean (1) Timberline Lodge spam (2) Go to the Southern Hemisphere
-  - Lmao.
+- **Replace the suspension, tires, and fix the paint job of my Z3?** Done!!!
+- **Small, semi-local road/backpacking trip?** I went on multiple local hiking and road trips. Did end up visiting Spokane / Northern Idaho, the North Cascades, and Mount Ellinor. I love Washington!!!!
+- **Do some long-haul endurance biking to make up for the lack of skiing and work out other areas?** I forgot to bike but I *did* pick up climbing thanks to a friend pestering me. I'll get to this soon
+- **Get a gym routine and a gym community to keep me coming?** Lmao. Unless you count climbing friend.
+- **Ski all months?** Lmao. I didn't wanna fly to Portillo but I guess would've been a better use of my time and money than what I actually spent September doing. Better luck next year.
 
 ### pending actions
-- Go wheeling in the Land Rover. This has actually been pending for months but unfortunately my
+- **Go wheeling in the Land Rover.** This has actually been pending for months but unfortunately my
   truck has just not been in the condition to do it.
-- Have a consistent weekly climbing schedule. Monday nights have already been allocated.
-- Stop driving to work. Parking costs money, tolls cost money, gas costs money, being a car-dependent chud costs soul.
-- Get a wardrobe that makes me ["look less than I'm from the Bay"](https://umbresp.cat/)
-  - This either means I cover myself in polyester or become a lot of dollars poorer. Hopefully the latter as the former is kinda chud.
+- **Have a consistent weekly climbing schedule.** Monday nights have already been allocated.
+- **Stop driving to work.** Parking costs money, tolls cost money, gas costs money, being a car-dependent chud costs soul.
+- **Get a wardrobe that makes me ["look less than I'm from the Bay"](https://umbresp.cat/).**
+  This either means I cover myself in polyester or become a lot of dollars poorer. Hopefully the latter as the former is kinda chud.
+
+### 35 missed calls
+Certain recent events I will not elaborate upon further in the interest of privacy for those involved have led me on an interesting train of
+thought towards considering how I want to be perceived. I had always believed that as this train would not arrive at any stations related to
+school or work, that it was not a train worth boarding for any reason. Moreover, I did not believe I had paid requisite fares to board this train
+at all.
+
+However, blocking out time to entertain this train of thought and conversing with people who have likely rode this train in the past make
+me worried that it may be better for me to follow this train to its terminus station. However, as there are multiple possible lines and the conductor
+is being a bitch and refuses to tell me which one we're on, I will need to use more of my surrounding context to determine which station I am to arrive at.
+
+In CTA terms, it seems plausible that this train of thought could be headed to Skokie, or maybe Evanston. It is somewhat unlikely that I would be headed to
+O'Hare or Cicero, although many seem to suggest this is the case.
+
+None of this makes sense and it isn't meant to.
 
 ## music rotation
+I got some Beyerdynamic headphones and a DAC to make myself have a superiority complex over other people when listening to the compressed slop on Spotify.
+However, it does make me realize that some songs are produced better than others. Here are some Chinese-language songs that are at least decently mixed, in my opinion.
+
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7KPiZ5T84rDSmwl7X6JZLI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <br/>
