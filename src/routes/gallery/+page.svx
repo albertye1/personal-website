@@ -7,6 +7,19 @@
 new page to [document just how awful i am at skiing](/gallery/ski) here.
 i figured it was worth it if i keep being this addicted next winter.
 
+## 20 sep 2026: [spokane volvo retrieval trip](https://img.aly.sh/s/spokane240)
+<Carousel --aspect=4/3 images={[
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/e1995c80-bb12-4676-abf1-e2a7eb70b8ee/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/ceac676b-3c88-46c1-830e-b8bdbc72ba13/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/d2f703e4-fef8-4215-986c-ecb660a52089/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/742305cd-3e4a-4625-82f6-16258d3e848b/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/ea36c2ea-6eea-4769-b85c-093645fe44cc/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/44bdee49-33ad-4617-9a44-98e950fd740d/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/9003b73d-1694-48ff-9783-d21edb322b86/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/8e1704b0-769d-49c5-b344-e4947e3252cb/",
+  "https://img.aly.sh/share/photo/-k03uaNCSriF70mCaUzKr6MOKzXMr41tB5_Pd4AVOqeWh8gOyR4H-1TbuFQ6lqZs6Bs/4f83ec65-1b99-41c5-bfde-5f8912cfced8/"
+]}/>
+
 ## 27 aug 2026: [ts pentax i bought off facebook marketplace in chicago](https://img.aly.sh/s/chionfilm)
 <Carousel --aspect=4/3 images={[
   "https://img.aly.sh/share/photo/RQrIPbZsuDeB2FqrZ1RupTWgnUNXHp2vDMJEsMO5OgDJSZDUBzlX2ar-yvTTsH9G_D0/5d053c1f-ef5d-4935-93f9-980aa8edf796/",
